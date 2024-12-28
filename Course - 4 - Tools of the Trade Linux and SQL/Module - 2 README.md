@@ -23,9 +23,9 @@
 <li><strong>clear:</strong> Clears the terminal screen.</li>
 
 <h3>The Kernel:</h3> 
-<b>Kernel: is the core component of the OS that manages system resources, processes, memory, and hardware communication, ensuring stability and security.
-<h3>File System:</h3> Organizes files and directories.
-<li><b>Filesystem Hierarchy Standard (FHS):</b> Defines the directory structure and file locations on Linux systems.</li>
+<b>Kernel:</b> is the core component of the OS that manages system resources, processes, memory, and hardware communication, ensuring stability and security.
+<h3>File System:</h3>
+The file system organizes files and directories, while the <b>Filesystem Hierarchy Standard (FHS)</b> defines the directory structure and file locations on Linux systems.
 
 <h3>Terms & Definitions</h3>
 <li><b>Package Manager:</b> A tool used to install, update, and manage software packages on Linux (e.g., apt, yum, dpkg).</li>
