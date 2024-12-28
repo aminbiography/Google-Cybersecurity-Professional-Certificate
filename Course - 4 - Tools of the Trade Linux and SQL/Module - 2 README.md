@@ -17,9 +17,7 @@
 <li><strong>Standard Error (stderr):</strong> Error messages when commands fail (e.g., due to wrong syntax or insufficient permissions).</li>
 
 <h3>Core Linux Commands:</h3>
-<li><strong>echo:</strong> Used to output text to the terminal.
-  
-  ```echo 'hellow world'``` </li> 
+<li><strong>echo:</strong> Used to output text to the terminal.</li> 
 <li><strong>nano:</strong> A simple text editor for creating and editing files in the terminal.</li>
 <li><strong>expr:</strong> Performs basic arithmetic operations.</li>
 <li><strong>clear:</strong> Clears the terminal screen.</li>
