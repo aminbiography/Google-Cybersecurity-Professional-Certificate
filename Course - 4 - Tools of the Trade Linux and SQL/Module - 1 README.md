@@ -8,8 +8,9 @@
   <li>Windows (Released 1985, closed source)</li> 
   <li>Linux (Released 1991, fully open source)</li> 
   <li>macOS (Released 1984, partially open source)</li> 
-  <li>ChromeOS (Released 2011, partially open source),</li> 
-    - Chromium OS (Fully open source)
+  <li>ChromeOS (Released 2011, partially open source),
+    <br>
+    - Chromium OS (Fully open source)</li> 
   <li>Android (Released 2008, fully open source)</li> 
   <li>iOS (Released 2007, partially open source)</li>
 </p>
