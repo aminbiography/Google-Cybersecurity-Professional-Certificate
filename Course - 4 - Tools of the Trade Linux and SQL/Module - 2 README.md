@@ -19,7 +19,9 @@
 <h3>Core Linux Commands:</h3>
 <li><strong>echo:</strong> Used to output text to the terminal.</li> 
 
-- Copy option: ```echo```
+- **echo:** Used to output text to the terminal.
+  - `echo <text>`: Example usage to print text to the terminal.
+  - Copy option: ```echo``` will print the text you provide to the terminal.
   
 <li><strong>nano:</strong> A simple text editor for creating and editing files in the terminal.</li>
 <li><strong>expr:</strong> Performs basic arithmetic operations.</li>
