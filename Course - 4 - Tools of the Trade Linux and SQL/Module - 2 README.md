@@ -20,7 +20,7 @@
 <li><strong>echo:</strong> Used to output text to the terminal. 
   <br>
 
-  ```echo``` </li> 
+  ```echo 'hellow world'``` </li> 
 <li><strong>nano:</strong> A simple text editor for creating and editing files in the terminal.</li>
 <li><strong>expr:</strong> Performs basic arithmetic operations.</li>
 <li><strong>clear:</strong> Clears the terminal screen.</li>
