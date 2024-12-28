@@ -14,7 +14,7 @@
 </p>
 <h4><strong>Functions:</strong> OS manages memory, storage, input/output, and ensures efficient task execution.</h4>
 
-<h3>User Interfaces: A program that allows the user to control the functions of the operating system.</h3>
+<h4>User Interfaces: A program that allows the user to control the functions of the operating system.</h4>
 <li><strong>GUI (Graphical User Interface):</strong> A user interface that uses icons on the screen to manage different tasks on the 
 computer.</li>
 <li><strong>CLI (Command-line Interface):</strong> A text-based user interface that uses commands to interact with the computer.</li>
