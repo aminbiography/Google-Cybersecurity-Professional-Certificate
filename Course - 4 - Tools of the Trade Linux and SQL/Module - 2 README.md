@@ -23,12 +23,14 @@
 <li><strong>clear:</strong> Clears the terminal screen.</li>
 
 <h3>The Kernel:</h3> The central part of the OS that manages processes, memory, and hardware communication.
+<li><b>Kernel:</b> Manages system resources and hardware communication, vital for system stability and security.</li>
 <h3>File System:</h3> Organizes files and directories. The <b>Filesystem Hierarchy Standard (FHS)</b> defines the directory structure and their content.
+<li><b>Filesystem Hierarchy Standard (FHS):</b> Defines the directory structure and file locations on Linux systems.</li>
 
 <h3>Terms & Definitions</h3>
 <li><b>Package Manager:</b> A tool used to install, update, and manage software packages on Linux (e.g., apt, yum, dpkg).</li>
 <li><b>Penetration Testing (Pen Test):</b> A simulated cyberattack on a system to identify vulnerabilities.</li>
 <li><b>Digital Forensics:</b> The process of investigating a system for evidence, often after a cyberattack.</li>
-<li><b>DKernel:</b> Manages system resources and hardware communication, vital for system stability and security.</li>
-<li><b>Filesystem Hierarchy Standard (FHS):</b> Defines the directory structure and file locations on Linux systems.</li>
+
+
 
