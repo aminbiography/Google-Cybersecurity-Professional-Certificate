@@ -14,9 +14,10 @@
 </p>
 <h4><strong>Functions:</strong> OS manages memory, storage, input/output, and ensures efficient task execution.</h4>
 
-<h3>User Interfaces:</h3>
-<li><strong>GUI (Graphical User Interface):</strong> A visual interface using icons for easier navigation and task management.</li>
-<li><strong>CLI (Command-line Interface):</strong> A text-based interface offering more flexibility and power, especially useful for cybersecurity tasks.</li>
+<h3>User Interfaces: A program that allows the user to control the functions of the operating system.</h3>
+<li><strong>GUI (Graphical User Interface):</strong> A user interface that uses icons on the screen to manage different tasks on the 
+computer.</li>
+<li><strong>CLI (Command-line Interface):</strong> A text-based user interface that uses commands to interact with the computer.</li>
 
 <h3>Virtualization</h3>
 <li><strong>Virtual Machine (VM):</strong> A software-based version of a physical computer, enabling multiple OS environments on a single machine.</li>
