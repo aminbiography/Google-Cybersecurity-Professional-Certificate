@@ -3,7 +3,7 @@
 <h1>Cybersecurity Concepts - Operating Systems and Virtualization</h1>
 
 <h3>Operating Systems</h3>
-<p>OS: The interface between hardware and users, enabling task execution.</p>
+<h4>OS: The interface between hardware and users, enabling task execution.</h4>
 <p>Types of OS/Common OS include: 
   <li>Windows (1985, closed source)</li> 
   <li>Linux (1991, fully open source)</li> 
