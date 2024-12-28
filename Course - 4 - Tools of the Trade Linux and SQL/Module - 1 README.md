@@ -17,3 +17,8 @@
 <h3>User Interfaces:</h3>
 <li>GUI (Graphical User Interface): A visual interface using icons for easier navigation and task management.</li>
 <li>CLI (Command-line Interface): A text-based interface offering more flexibility and power, especially useful for cybersecurity tasks.</li>
+
+<h3>Virtualization</h3>
+<li>Virtual Machine (VM): A software-based version of a physical computer, enabling multiple OS environments on a single machine.</li>
+<li>Hypervisor: A tool for managing VMs, allocating physical resources to virtual systems.</li>
+<li>Benefits in Cybersecurity: Virtual machines provide secure environments for testing and analysis, helping isolate and investigate threats.</li>
