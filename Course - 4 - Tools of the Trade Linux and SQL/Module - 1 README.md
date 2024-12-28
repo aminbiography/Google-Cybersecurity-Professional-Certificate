@@ -10,6 +10,7 @@
   <li>macOS (Released 1984, partially open source)</li> 
   <li>ChromeOS (Released 2011, partially open source),
     <br>
+    
     - Chromium OS (Fully open source)</li> 
   <li>Android (Released 2008, fully open source)</li> 
   <li>iOS (Released 2007, partially open source)</li>
