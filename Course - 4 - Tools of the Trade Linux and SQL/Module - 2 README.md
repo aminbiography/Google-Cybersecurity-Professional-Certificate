@@ -22,5 +22,5 @@
 <li><strong>expr:</strong> Performs basic arithmetic operations.</li>
 <li><strong>clear:</strong> Clears the terminal screen.</li>
 
-<h3><strong>The Kernel:</strong> The central part of the OS that manages processes, memory, and hardware communication.</h3>
-<h3><strong>File System:</strong> Organizes files and directories. The <b>Filesystem Hierarchy Standard (FHS)</b> defines the directory structure and their content.</h3>
+<h3>The Kernel:</h3> The central part of the OS that manages processes, memory, and hardware communication.
+<h3>File System:</h3> Organizes files and directories. The <b>Filesystem Hierarchy Standard (FHS)</b> defines the directory structure and their content.
