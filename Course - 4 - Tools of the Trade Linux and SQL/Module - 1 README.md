@@ -12,13 +12,13 @@
   <li>Android (2008, fully open source)</li> 
   <li>iOS (2007, partially open source)</li>
 </p>
-<h4>Functions: OS manages memory, storage, input/output, and ensures efficient task execution.</h4>
+<h4><strong>Functions:</strong> OS manages memory, storage, input/output, and ensures efficient task execution.</h4>
 
 <h3>User Interfaces:</h3>
-<li>GUI (Graphical User Interface): A visual interface using icons for easier navigation and task management.</li>
-<li>CLI (Command-line Interface): A text-based interface offering more flexibility and power, especially useful for cybersecurity tasks.</li>
+<li><strong>GUI (Graphical User Interface):</strong> A visual interface using icons for easier navigation and task management.</li>
+<li><strong>CLI (Command-line Interface):</strong> A text-based interface offering more flexibility and power, especially useful for cybersecurity tasks.</li>
 
 <h3>Virtualization</h3>
-<li>Virtual Machine (VM): A software-based version of a physical computer, enabling multiple OS environments on a single machine.</li>
-<li>Hypervisor: A tool for managing VMs, allocating physical resources to virtual systems.</li>
-<li>Benefits in Cybersecurity: Virtual machines provide secure environments for testing and analysis, helping isolate and investigate threats.</li>
+<li><strong>Virtual Machine (VM):</strong> A software-based version of a physical computer, enabling multiple OS environments on a single machine.</li>
+<li><strong>Hypervisor:</strong> A tool for managing VMs, allocating physical resources to virtual systems.</li>
+<li><strong>Benefits in Cybersecurity:</strong> Virtual machines provide secure environments for testing and analysis, helping isolate and investigate threats.</li>
