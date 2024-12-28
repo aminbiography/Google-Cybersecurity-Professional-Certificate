@@ -23,3 +23,11 @@ computer.</li>
 <li><strong>Virtual Machine (VM):</strong> A software-based version of a physical computer, enabling multiple OS environments on a single machine.</li>
 <li><strong>Hypervisor:</strong> A tool for managing VMs, allocating physical resources to virtual systems.</li>
 <li><strong>Benefits in Cybersecurity:</strong> Virtual machines provide secure environments for testing and analysis, helping isolate and investigate threats.</li>
+
+<h3>Terms & Definitions</h3>
+<li><strong>Application:</strong> A program that performs a specific task</li>
+<li><strong>Basic Input/Output System (BIOS):</strong> A microchip that contains loading instructions for the computer and is 
+prevalent in older systems</li>
+<li><strong>Random Access Memory (RAM):</strong> A hardware component used for short-term memory</li>
+<li><strong>Bootloader:</strong> A software program that boots the operating system</li>
+<li><strong>Legacy operating system:</strong> An operating system that is outdated but still being used</li>
