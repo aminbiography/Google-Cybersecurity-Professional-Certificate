@@ -6,11 +6,11 @@
 <h4>OS: The interface between hardware and users, enabling task execution.</h4>
 <p>Types of OS/Common OS include: 
   <li><b>Windows</b> (Released 1985, closed source)</li> 
-  <li><b>Linux</b>b> (Released 1991, fully open source)</li> 
-  <li><b>macOS</b>b> (Released 1984, partially open source)</li> 
-  <li><b>ChromeOS</b>b> (Released 2011, partially open source), <b>Chromium OS</b>b> (Fully open source)</li> 
-  <li><b>Android</b>b> (Released 2008, fully open source)</li> 
-  <li><b>iOS</b>b> (Released 2007, partially open source)</li>
+  <li><b>Linux</b> (Released 1991, fully open source)</li> 
+  <li><b>macOS</b> (Released 1984, partially open source)</li> 
+  <li><b>ChromeOS</b> (Released 2011, partially open source), <b>Chromium OS</b> (Fully open source)</li> 
+  <li><b>Android</b> (Released 2008, fully open source)</li> 
+  <li><b>iOS</b> (Released 2007, partially open source)</li>
 </p>
 <h4><strong>Functions:</strong> OS manages memory, storage, input/output, and ensures efficient task execution.</h4>
 
