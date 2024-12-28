@@ -4,7 +4,7 @@
 
 <h3>Operating Systems</h3>
 <p>OS: The interface between hardware and users, enabling task execution.</p>
-<p>Types of OS: Common OS include: 
+<p>Types of OS / Common OS include: 
   <li>Windows (1985, closed source), </li> 
   <li>Linux (1991, fully open source),</li> 
   <li>macOS (1984, partially open source).</li> 
