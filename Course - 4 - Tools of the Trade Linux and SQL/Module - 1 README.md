@@ -12,7 +12,7 @@
   <li>Android (2008, fully open source)</li> 
   <li>iOS (2007, partially open source)</li>
 </p>
-<p>Functions: OS manages memory, storage, input/output, and ensures efficient task execution.</p>
+<h4>Functions: OS manages memory, storage, input/output, and ensures efficient task execution.</h4>
 
 <h3>User Interfaces:</h3>
 <li>GUI (Graphical User Interface): A visual interface using icons for easier navigation and task management.</li>
