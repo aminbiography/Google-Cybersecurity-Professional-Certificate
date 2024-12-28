@@ -22,8 +22,8 @@
 <li><strong>expr:</strong> Performs basic arithmetic operations.</li>
 <li><strong>clear:</strong> Clears the terminal screen.</li>
 
-<h3>The Kernel:</h3> The central part of the OS that manages processes, memory, and hardware communication.
-<li><b>Kernel:</b> Manages system resources and hardware communication, vital for system stability and security.</li>
+<h3>The Kernel:</h3> 
+<b>Kernel: is the core component of the OS that manages system resources, processes, memory, and hardware communication, ensuring stability and security.
 <h3>File System:</h3> Organizes files and directories.
 <li><b>Filesystem Hierarchy Standard (FHS):</b> Defines the directory structure and file locations on Linux systems.</li>
 
