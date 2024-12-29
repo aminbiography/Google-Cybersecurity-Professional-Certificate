@@ -38,6 +38,14 @@
 <li><strong>Security Posture:</strong> An organization’s overall ability to defend critical data and assets and adapt to emerging threats.</li>
 <li><strong>Internal Threats:</strong> Risks posed by insiders, often unintentionally, such as employees clicking on phishing links.</li>
 
+<h3>Possible Job Titles in Cybersecurity (Including Cloud Security):</h3>
+<li><strong>Security Analyst or Specialist</strong> Monitors and protects an organization’s systems, identifying vulnerabilities and responding to security incidents.</li>
+<li><strong>Cybersecurity Analyst/Specialist</strong> Protects an organization’s networks and systems by identifying threats, implementing security measures, and responding to incidents.</li>
+<li><strong>Security Operations Center (SOC) Analyst</strong> Monitors, analyzes, and responds to security threats in real-time to protect an organization’s infrastructure.</li>
+<li><strong>Information Security Analyst</strong> Protects an organization's information systems by identifying vulnerabilities, implementing security measures, and responding to security incidents.</li>
+<li><strong>Cloud Security Analyst or Specialist</strong> Focuses on securing cloud environments, monitoring for vulnerabilities, and ensuring compliance with security policies.</li>
+<li><strong>Cloud Security Architect</strong> Designs secure cloud infrastructures, ensuring data protection and compliance.</li>
+
 <h3>Terms & Definitions:</h3>
 <li><strong>Cloud Security:</strong> Ensures that cloud-stored assets are securely configured and accessible only to authorized users.</li>
 <li><strong>Network Security:</strong> Involves the protection of an organization’s network infrastructure from unauthorized access and cyberattacks.</li>
