@@ -29,7 +29,12 @@
 <li><strong>Adversarial Artificial Intelligence (AI):</strong> Uses AI/ML techniques to conduct more sophisticated and automated attacks.</li>
 <li><strong>Supply-Chain Attacks:</strong> Target third-party vendors and partners to deploy malware or access data through vulnerabilities.</li>
 
-
+<h3>Threat Actor Types</h3>
+<li><strong>Advanced Persistent Threats (APTs):</strong> Sophisticated attackers who target large organizations, typically for espionage or infrastructure damage.</li>
+<li><strong>Insider Threats:</strong> Employees or trusted individuals who misuse their access for malicious purposes.</li>
+<li><strong>Hacktivists:</strong> Attackers with political or social agendas who exploit systems for activism.</li>
+<li><strong>Ethical Hackers (Authorized Hackers):</strong> Use their skills to identify vulnerabilities and protect organizations.</li>
+<li><strong>Malicious Hackers (Unauthorized Hackers):</strong> Use their skills to exploit systems for financial gain, data theft, or other malicious purposes.</li>
 
 
 
