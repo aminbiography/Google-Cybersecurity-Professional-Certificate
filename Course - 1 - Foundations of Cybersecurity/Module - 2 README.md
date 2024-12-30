@@ -10,38 +10,38 @@
 <h3>As of 2022, CISSP (Certified Information Systems Security Professional) Domains</h3>
 <p>The eight domains of CISSP that help organize the work of cybersecurity professionals include:</p>
 
-<li><strong>Security and Risk Management:</strong> Covers security governance, risk management, compliance, business continuity, and legal issues.</li>
-<li><strong>Asset Security:</strong> Focuses on protecting physical and digital assets, data classification, and privacy protection.</li>
-<li><strong>Security Architecture and Engineering:</strong> Deals with secure design principles, cryptography, and infrastructure security.</li>
-<li><strong>Communication and Network Security:</strong> Ensures the security of communication channels and network infrastructures.</li>
-<li><strong>Identity and Access Management (IAM):</strong> Manages identity, authentication, authorization, and access control.</li>
-<li><strong>Security Assessment and Testing:</strong> Includes vulnerability assessment, penetration testing, and security audits.</li>
-<li><strong>Security Operations:</strong> Covers incident response, monitoring, and handling day-to-day security operations.</li>
-<li><strong>Software Development Security:</strong> Focuses on securing the software development lifecycle, from design to deployment.</li>
+<li><strong>Security and Risk Management:</strong> Governance, risk, compliance, and legal issues.</li>
+<li><strong>Asset Security:</strong> Protection of digital and physical assets.</li>
+<li><strong>Security Architecture and Engineering:</strong> Design principles, cryptography, and infrastructure security.</li>
+<li><strong>Communication and Network Security:</strong> Protection of communication channels and networks.</li>
+<li><strong>Identity and Access Management (IAM):</strong> Manages identity, authentication, and authorization.</li>
+<li><strong>Security Assessment and Testing:</strong> Includes vulnerability assessments and audits.</li>
+<li><strong>Security Operations:</strong> Incident response and monitoring.</li>
+<li><strong>Software Development Security:</strong> Securing the software development lifecycle.</li>
 
 <h3>Types of Attacks</h3>
-<li><strong>Password Attacks:</strong> Brute Force and Rainbow Table attacks attempt to break passwords to gain unauthorized access.</li>
-<li><strong>Social Engineering:</strong> Exploits human error for malicious gain, including Phishing, Vishing, and Spear Phishing.</li>
-<li><strong>Physical Attacks:</strong> Malicious USB devices and physical access exploits that compromise system security.</li>
-<li><strong>Physical Social Engineering:</strong> A type of social engineering where attackers impersonate employees, customers, or vendors to gain unauthorized physical access.</li>
-<li><strong>Malware:</strong> Includes viruses, worms, and other malicious software designed to harm systems.</li>
-<li><strong>Cryptographic Attacks:</strong> Involve breaking encryption algorithms or attacking encrypted communications.</li>
-<li><strong>Adversarial Artificial Intelligence (AI):</strong> Uses AI/ML techniques to conduct more sophisticated and automated attacks.</li>
-<li><strong>Supply-Chain Attacks:</strong> Target third-party vendors and partners to deploy malware or access data through vulnerabilities.</li>
+<li><strong>Password Attacks:</strong> Brute force and rainbow table techniques to break passwords.</li>
+<li><strong>Social Engineering:</strong> Includes Phishing, Vishing, and Spear Phishing to exploit human error.</li>
+<li><strong>Physical Attacks:</strong> Malicious USB devices and physical access exploits.</li>
+<li><strong>Physical Social Engineering:</strong> Impersonating individuals to gain physical access.</li>
+<li><strong>Malware:</strong> Includes viruses, worms, and other harmful software.</li>
+<li><strong>Cryptographic Attacks:</strong> Attacking encryption algorithms or communications.</li>
+<li><strong>Adversarial Artificial Intelligence (AI):</strong> AI/ML techniques used for more sophisticated automated attacks.</li>
+<li><strong>Supply-Chain Attacks:</strong> Targeting third-party vendors for malware deployment or data access.</li>
 
 <h3>Threat Actor Types</h3>
-<li><strong>Advanced Persistent Threats (APTs):</strong> Sophisticated attackers who target large organizations, typically for espionage or infrastructure damage.</li>
-<li><strong>Insider Threats:</strong> Employees or trusted individuals who misuse their access for malicious purposes.</li>
-<li><strong>Hacktivists:</strong> Attackers with political or social agendas who exploit systems for activism.</li>
-<li><strong>Ethical Hackers (Authorized Hackers):</strong> Use their skills to identify vulnerabilities and protect organizations.</li>
-<li><strong>Malicious Hackers (Unauthorized Hackers):</strong> Use their skills to exploit systems for financial gain, data theft, or other malicious purposes.</li>
+<li><strong>Advanced Persistent Threats (APTs):</strong> Advanced, espionage-focused attackers.</li>
+<li><strong>Insider Threats:</strong> Trusted individuals exploiting their access.</li>
+<li><strong>Hacktivists:</strong> Attackers with political or social motives.</li>
+<li><strong>Ethical Hackers (Authorized Hackers):</strong> Authorized professionals identifying and mitigating vulnerabilities.</li>
+<li><strong>Malicious Hackers (Unauthorized Hackers):</strong> Unauthorized individuals exploiting systems for gain.</li>
 
 <h3>Terms & Definitions</h3>
-<li><strong>Phishing:</strong> A type of social engineering attack where attackers impersonate legitimate entities to trick individuals into revealing sensitive information.</li>
-<li><strong>Vishing:</strong> A form of phishing that uses voice communication (e.g., phone calls) to deceive victims into disclosing private information.</li>
-<li><strong>Virus:</strong> Malicious code that attaches to programs/files and spreads to other systems.</li>
-<li><strong>Malware:</strong> Software designed to harm or exploit devices, networks, or services.</li>
-<li><strong>Worm:</strong> Self-replicating malware that spreads across networks without user intervention.</li>
+<li><strong>Phishing:</strong> Social engineering attack where attackers impersonate legitimate entities to steal sensitive information.</li>
+<li><strong>Vishing:</strong> Voice-based phishing using phone calls to deceive victims.</li>
+<li><strong>Virus:</strong> Malicious code attaching to programs/files, spreading across systems.</li>
+<li><strong>Malware:</strong> Software designed to harm or exploit systems.</li>
+<li><strong>Worm:</strong> Self-replicating malware spreading autonomously across networks.</li>
 
 
 
