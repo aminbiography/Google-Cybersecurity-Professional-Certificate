@@ -1,7 +1,7 @@
 
 
 <h1>Cybersecurity History and Overview of CISSP Domains</h1>
-<h3>Cybersecurity History: Key Milestones in Security Evolution</h3>
+<h3>Cybersecurity History: Key Milestones in Security Evolution:</h3>
 <p>The history of cybersecurity is shaped by key attacks and advancements that have driven the evolution of security practices and technologies. Two significant early attacks were the Brain virus (1986) and the Morris worm (1988), both of which impacted the security landscape and influenced the development of modern cybersecurity measures.</p>
 
 <li><strong>The Brain Virus (1986):</strong> Created by the Alvi brothers to track pirated medical software, the Brain virus spread unintentionally by infecting disks used on a compromised machine. It highlighted the need for security planning and demonstrated how malware could disrupt business operations and spread rapidly across networks.</li>
@@ -18,6 +18,16 @@
 <li><strong>Security Assessment and Testing:</strong> Includes vulnerability assessment, penetration testing, and security audits.</li>
 <li><strong>Security Operations:</strong> Covers incident response, monitoring, and handling day-to-day security operations.</li>
 <li><strong>Software Development Security:</strong> Focuses on securing the software development lifecycle, from design to deployment.</li>
+
+<h3>Types of Attacks</h3>
+<li><strong>Password Attacks:</strong> Brute Force and Rainbow Table attacks attempt to break passwords to gain unauthorized access.</li>
+<li><strong>Social Engineering:</strong> Exploits human error for malicious gain, including Phishing, Vishing, and Spear Phishing.</li>
+<li><strong>Physical Attacks:</strong> Malicious USB devices and physical access exploits that compromise system security.</li>
+<li><strong>Physical Social Engineering:</strong> A type of social engineering where attackers impersonate employees, customers, or vendors to gain unauthorized physical access.</li>
+<li><strong>Malware:</strong> Includes viruses, worms, and other malicious software designed to harm systems.</li>
+<li><strong>Cryptographic Attacks:</strong> Involve breaking encryption algorithms or attacking encrypted communications.</li>
+<li><strong>Adversarial Artificial Intelligence (AI):</strong> Uses AI/ML techniques to conduct more sophisticated and automated attacks.</li>
+<li><strong>Supply-Chain Attacks:</strong> Target third-party vendors and partners to deploy malware or access data through vulnerabilities.</li>
 
 
 
