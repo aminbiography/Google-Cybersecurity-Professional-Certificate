@@ -6,6 +6,7 @@
 
 <li><strong>The Brain Virus (1986):</strong> Created by the Alvi brothers to track pirated medical software, the Brain virus spread unintentionally by infecting disks used on a compromised machine. It highlighted the need for security planning and demonstrated how malware could disrupt business operations and spread rapidly across networks.</li>
 <li><strong>The Morris Worm (1988):</strong> Developed to assess the size of the internet, the Morris worm infected approximately 6,000 computers, causing widespread system crashes and disrupting operations. It led to the establishment of Computer Emergency Response Teams (CERTs), which continue to play a crucial role in responding to cybersecurity incidents.</li>
+<li><strong>Love Letter (2000):</strong> The "I Love You" virus spread via email, deceiving users with an affectionate message. It stole passwords and sent itself to all contacts, demonstrating the power of social engineering.</li>
 
 <h3>As of 2022, CISSP (Certified Information Systems Security Professional) Domains</h3>
 <p>The eight domains of CISSP that help organize the work of cybersecurity professionals include:</p>
