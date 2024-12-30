@@ -42,8 +42,6 @@
 <li><strong>Virus:</strong> Malicious code that attaches to programs/files and spreads to other systems.</li>
 <li><strong>Malware:</strong> Software designed to harm or exploit devices, networks, or services.</li>
 <li><strong>Worm:</strong> Self-replicating malware that spreads across networks without user intervention.</li>
-<li><strong>Ethical Hacking:</strong> Legally testing systems for vulnerabilities to improve security./li>
-<li><strong>Malicious Hacking:</strong> Unauthorized hacking for personal or financial gain./li>
 
 
 
