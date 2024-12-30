@@ -1,7 +1,7 @@
 
 
-<h1>Cybersecurity History and Overview of CISSP Domains</h1>
-<h3>Cybersecurity History: Key Milestones in Security Evolution:</h3>
+<h1>Cybersecurity History & Overview of CISSP Domains</h1>
+<h3>Cybersecurity History: Key Milestones in Cybersecurity Evolution:</h3>
 <p>The history of cybersecurity is shaped by key attacks and advancements that have driven the evolution of security practices and technologies. Two significant early attacks were the Brain virus (1986) and the Morris worm (1988), both of which impacted the security landscape and influenced the development of modern cybersecurity measures.</p>
 
 <li><strong>The Brain Virus (1986):</strong> Created by the Alvi brothers to track pirated medical software, the Brain virus spread unintentionally by infecting disks used on a compromised machine. It highlighted the need for security planning and demonstrated how malware could disrupt business operations and spread rapidly across networks.</li>
