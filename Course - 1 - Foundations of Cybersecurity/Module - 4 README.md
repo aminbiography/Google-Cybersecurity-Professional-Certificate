@@ -19,8 +19,8 @@
 <li><strong>Playbooks:</strong> That provide step-by-step procedures for responding to various types of security incidents.</li> 
 <li>Threat Detection:</strong> Detect vulnerabilities, and identify suspicious activity within an organization’s network and systems.</li>
 <h3>Security Domains</h3>
-<li>Asset Security:</strong> Ensuring the confidentiality, integrity, and availability of organizational assets, including data, systems, and applications.</li>
-<li>Network Security:</strong> Protecting network infrastructures from unauthorized access, vulnerabilities, and cyber-attacks.</li>
+<li></strong>Asset Security:</strong> Ensuring the confidentiality, integrity, and availability of organizational assets, including data, systems, and applications.</li>
+<li></strong>Network Security:</strong> Protecting network infrastructures from unauthorized access, vulnerabilities, and cyber-attacks.</li>
 <li><strong>Security Operations:</strong> Managing and monitoring security tools, responding to incidents, and ensuring that security policies are followed.</li>
 <h3>Terms & Definitions:</h3>
 <li><strong>Antivirus Software:</strong> Programs used to prevent, detect, and eliminate malware and viruses.</li>
