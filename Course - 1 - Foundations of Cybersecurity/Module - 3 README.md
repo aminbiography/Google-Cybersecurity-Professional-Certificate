@@ -18,4 +18,4 @@
 <li><strong>Assets:</strong> Items of value to an organization, such as databases and sensitive data.</li>
 <li><strong>Security Controls:</strong> Safeguards that help reduce security risks.</li>
 <li><strong>Hacktivists:</strong> Individuals who use hacking for political or social activism.</li>
-<li><strong>Integrity & Availability:</strong> Focus on ensuring data is correct, accessible, and protected./li>
+<li><strong>Integrity & Availability:</strong> Focus on ensuring data is correct, accessible, and protected.</li>
