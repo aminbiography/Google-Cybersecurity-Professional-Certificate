@@ -2,7 +2,7 @@
 
 <h1>Explore Cybersecurity Knowledge and Skills</h1>
 <h3>Cybersecurity Core Concepts:</h3>
-<p> * Confidentiality, Integrity, Availability (CIA Triad). * Risk Management * Cybersecurity Frameworks</p>
+<p><strong>Confidentiality, Integrity, Availability (CIA Triad); Risk Management & Cybersecurity Frameworks</strong></p>
 <h3>Soft Skills</h3>
 <li><strong>Problem-Solving:</strong> Think critically and creatively to identify solutions to complex security issues.</li>
 <li><strong>Communication:</strong> Effective communication with team members, stakeholders, and external parties.</li>
