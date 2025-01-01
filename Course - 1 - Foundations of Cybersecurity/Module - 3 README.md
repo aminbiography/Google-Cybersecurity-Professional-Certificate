@@ -13,7 +13,7 @@
 <h3>Ethical Decision-Making Scenarios</h3>
 <p><stron>Example:</strong> Handling a ransomware attack, responding to a colleague’s privacy violation, managing PII or SPII data securely, and how to ethically dispose of old equipment.</p>
 <h3>Risk Management Frameworks (CIA Triad)</h3>
-<p>Confidentiality, Integrity, Availability: These three components guide how organizations assess risk, protect data, and prevent unauthorized access or misuse.</p>
+<p><strong>Confidentiality, Integrity, Availability:</strong> These three components guide how organizations assess risk, protect data, and prevent unauthorized access or misuse.</p>
 <h3>Terms & Definitions:</h3>
 <li><strong>Assets:</strong> Items of value to an organization, such as databases and sensitive data.</li>
 <li><strong>Security Controls:</strong> Safeguards that help reduce security risks.</li>
