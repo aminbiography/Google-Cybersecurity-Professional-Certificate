@@ -11,7 +11,7 @@
 <h3>National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)</h3>
 <p><strong>Core Components:</strong> The CSF helps organizations manage cybersecurity risk using a set of standards and best practices. It emphasizes the importance of assessment, detection, response, and recovery.</p>
 <h3>Ethical Decision-Making Scenarios</h3>
-<p><stron>Example:</strong> Handling a ransomware attack, responding to a colleague’s privacy violation, managing PII or SPII data securely, and how to ethically dispose of old equipment.</p>
+<p><strong>Example:</strong> Handling a ransomware attack, responding to a colleague’s privacy violation, managing PII or SPII data securely, and how to ethically dispose of old equipment.</p>
 <h3>Risk Management Frameworks (CIA Triad)</h3>
 <p><strong>Confidentiality, Integrity, Availability:</strong> These three components guide how organizations assess risk, protect data, and prevent unauthorized access or misuse.</p>
 <h3>Terms & Definitions:</h3>
