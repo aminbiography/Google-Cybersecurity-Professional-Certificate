@@ -26,4 +26,4 @@
 <li><strong>Antivirus Software:</strong> Programs used to prevent, detect, and eliminate malware and viruses.</li>
 <li><strong>Cloud Security:</strong> Ensuring assets in the cloud are properly configured and accessible only to authorized users.</li>
 <li><strong>Intrusion Detection System (IDS):</strong> An application that monitors system activity for signs of possible intrusions.</li>
-<li><strong>ILog:</strong> A record of events within an organization’s systems.</li>
+<li><strong>Log:</strong> A record of events within an organization’s systems.</li>
