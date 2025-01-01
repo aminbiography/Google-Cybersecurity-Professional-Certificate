@@ -5,10 +5,10 @@
 <h3>Cybersecurity Frameworks & Risk Management:</h3>
 <li><strong>Purpose: </strong>Security frameworks provide guidelines and standards for protecting organizations from risks and aligning security with business goals. Frameworks like the <b>CIA triad (Confidentiality, Integrity, Availability) are fundamental for assessing and mitigating risks.</b></li>
 <li><strong>Core Components:</strong> Security goals, guidelines, security processes, and regulatory compliance measures help set up effective security architectures.</li>
-<h3>Security Ethics & Legal Considerations</h3>
+<h3>Cybersecurity Ethics & Legal Considerations</h3>
 <li><strong>Ethical Principles:</strong> Always act with integrity, avoid conflicts of interest, and consider the consequences of your actions. Uphold the confidentiality of sensitive data and ensure systems remain secure.</li>
 <li><strong>Case Studies:</strong> Be prepared to discuss scenarios where ethical dilemmas arise (e.g., accessing data without proper authorization or handling data breaches). Focus on why ethical conduct in security is important.</li>
-<h3>NIST Cybersecurity Framework (CSF)</h3>
+<h3>National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)</h3>
 <p><strong>Core Components:</strong> The CSF helps organizations manage cybersecurity risk using a set of standards and best practices. It emphasizes the importance of assessment, detection, response, and recovery.</p>
 <h3>Ethical Decision-Making Scenarios</h3>
 <p><stron>Example:</strong> Handling a ransomware attack, responding to a colleague’s privacy violation, managing PII or SPII data securely, and how to ethically dispose of old equipment.</p>
