@@ -8,7 +8,7 @@
 <h3>Security Ethics & Legal Considerations</h3>
 <li><strong>Ethical Principles:</strong> Always act with integrity, avoid conflicts of interest, and consider the consequences of your actions. Uphold the confidentiality of sensitive data and ensure systems remain secure.</li>
 <li><strong>Case Studies:</strong> Be prepared to discuss scenarios where ethical dilemmas arise (e.g., accessing data without proper authorization or handling data breaches). Focus on why ethical conduct in security is important.</li>
-<he>NIST Cybersecurity Framework (CSF)</he>
+<h3>NIST Cybersecurity Framework (CSF)</h3>
 <p>Core Components: The CSF helps organizations manage cybersecurity risk using a set of standards and best practices. It emphasizes the importance of assessment, detection, response, and recovery.</p>
 <h3>Ethical Decision-Making Scenarios</h3>
 <p><b>Example:</b> Handling a ransomware attack, responding to a colleague’s privacy violation, managing PII or SPII data securely, and how to ethically dispose of old equipment.</p>
