@@ -10,7 +10,7 @@
 <h3>Tools & Technologies</h3>
 <li><strong>SIEM Tools:</strong> Security Information and Event Management (SIEM) tools for collecting, analyzing, and responding to security incidents.</li>
 <li><strong>Network Protocol Analyzers (Packet Sniffers):</strong> Capture and analyze network traffic to detect potential security issues.</li>
-<li><strong>Antivirus Software:</strong> antivirus programs designed to detect, prevent, and eliminate malware.</li>
+<li><strong>Antivirus Software:</strong> Antivirus programs designed to detect, prevent, and eliminate malware.</li>
 <h3>Technical Skills</h3>
 <li><strong>Linux:</strong> Linux for system monitoring, log analysis, and incident response.</li>
 <li><strong>SQL:</strong> Structured Query Language (SQL) for database management and querying to detect anomalies and potential threats.</li>
