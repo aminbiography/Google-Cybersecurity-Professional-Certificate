@@ -9,9 +9,9 @@
 <li><strong>Ethical Principles:</strong> Always act with integrity, avoid conflicts of interest, and consider the consequences of your actions. Uphold the confidentiality of sensitive data and ensure systems remain secure.</li>
 <li><strong>Case Studies:</strong> Be prepared to discuss scenarios where ethical dilemmas arise (e.g., accessing data without proper authorization or handling data breaches). Focus on why ethical conduct in security is important.</li>
 <h3>NIST Cybersecurity Framework (CSF)</h3>
-<p><b>Core Components:</b> The CSF helps organizations manage cybersecurity risk using a set of standards and best practices. It emphasizes the importance of assessment, detection, response, and recovery.</p>
+<p><strong>Core Components:</strong> The CSF helps organizations manage cybersecurity risk using a set of standards and best practices. It emphasizes the importance of assessment, detection, response, and recovery.</p>
 <h3>Ethical Decision-Making Scenarios</h3>
-<p><b>Example:</b> Handling a ransomware attack, responding to a colleague’s privacy violation, managing PII or SPII data securely, and how to ethically dispose of old equipment.</p>
+<p><stron>Example:</strong> Handling a ransomware attack, responding to a colleague’s privacy violation, managing PII or SPII data securely, and how to ethically dispose of old equipment.</p>
 <h3>Risk Management Frameworks (CIA Triad)</h3>
 <p>Confidentiality, Integrity, Availability: These three components guide how organizations assess risk, protect data, and prevent unauthorized access or misuse.</p>
 <h3>Terms & Definitions:</h3>
