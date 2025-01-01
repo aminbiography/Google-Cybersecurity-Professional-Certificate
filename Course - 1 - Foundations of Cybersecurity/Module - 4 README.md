@@ -1,8 +1,8 @@
 
 
 <h1>Explore Cybersecurity Knowledge and Skills</h1>
-<h3>Core Cybersecurity Concepts:</h3>
-<p> # Confidentiality, Integrity, Availability (CIA Triad). # Risk Management # Cybersecurity Frameworks</p>
+<h3>Cybersecurity Core Concepts:</h3>
+<p> * Confidentiality, Integrity, Availability (CIA Triad). * Risk Management * Cybersecurity Frameworks</p>
 <h3>Soft Skills</h3>
 <li><strong>Problem-Solving:</strong> Think critically and creatively to identify solutions to complex security issues.</li>
 <li><strong>Communication:</strong> Effective communication with team members, stakeholders, and external parties.</li>
@@ -17,10 +17,10 @@
 <li><strong>Python:</strong> Python to automate security tasks, create scripts for system monitoring, and enhance threat detection capabilities.</li>
 <h3>Incident Response</h3>
 <li><strong>Playbooks:</strong> That provide step-by-step procedures for responding to various types of security incidents.</li> 
-<li>Threat Detection:</strong> Detect vulnerabilities, and identify suspicious activity within an organization’s network and systems.</li>
+<li><strong>Threat Detection:</strong> Detect vulnerabilities, and identify suspicious activity within an organization’s network and systems.</li>
 <h3>Security Domains</h3>
-<li></strong>Asset Security:</strong> Ensuring the confidentiality, integrity, and availability of organizational assets, including data, systems, and applications.</li>
-<li></strong>Network Security:</strong> Protecting network infrastructures from unauthorized access, vulnerabilities, and cyber-attacks.</li>
+<li><strong>Asset Security:</strong> Ensuring the confidentiality, integrity, and availability of organizational assets, including data, systems, and applications.</li>
+<li><strong>Network Security:</strong> Protecting network infrastructures from unauthorized access, vulnerabilities, and cyber-attacks.</li>
 <li><strong>Security Operations:</strong> Managing and monitoring security tools, responding to incidents, and ensuring that security policies are followed.</li>
 <h3>Terms & Definitions:</h3>
 <li><strong>Antivirus Software:</strong> Programs used to prevent, detect, and eliminate malware and viruses.</li>
