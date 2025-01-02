@@ -43,8 +43,9 @@
 <li><strong>ISP (Internet Service Provider):</strong> A company that provides internet access to individuals and businesses.</li>
 <li><strong>ITCP (Transmission Control Protocol):</strong> Ensures reliable, in-order delivery of data.</li>
 <li><strong>OSI (Open Systems Interconnection) Model:</strong> A 7-layer framework for network communication and troubleshooting.</li>
-<li><strong>HTTP (Hypertext Transfer Protocol):</strong> Transfers web pages over the internet. Used Port 80</li>
-<li><strong>FTP (File Transfer Protocol):</strong> Transfers files between computers securely. Used Port 20 & 21 for SSH (Secure Shell) Port 22</li>
+<li><strong>HTTP (Hypertext Transfer Protocol):</strong> Transfers web pages over the internet. (Port 80).</li>
+<li><strong>FTP (File Transfer Protocol):</strong> Transfers files between computers securely. (Port 20, 21).</li>
+<li><strong>SSH (Secure Shell):</strong> Secure remote access (Port 22).</li>
 <li><strong>Protocol Numbers:</strong> Indicate the type of protocol used for data transmission (e.g., HTTP, FTP).</li>
-<li><strong>Ports:</strong> Logical channels for data transfer (e.g., port 443 for HTTPS).</li>
+<li><strong>Ports:</strong> Logical channels for communication (e.g., HTTPS – Port 443).</li>
 
