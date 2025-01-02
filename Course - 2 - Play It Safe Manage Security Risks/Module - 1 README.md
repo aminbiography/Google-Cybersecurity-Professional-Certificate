@@ -31,6 +31,11 @@
 <li><strong>Collect and Analyze Data:</strong> Gathering data is crucial for identifying potential security issues.</li>
 <li><strong>Perform Security Audits:</strong> Audits help evaluate the effectiveness of security measures.</li>
 <li><strong>Conduct Security Control Testing:</strong> Ensures that security controls are functioning as intended.</li>
+<h3>Security and Risk Management Focus</h3>
+<li><strong>Maintain Business Continuity:</strong> Essential for ensuring the organization remains operational.</li>
+<li><strong>Define Security Goals:</strong> Establish clear security objectives to guide practices.</li>
+<li><strong>Follow Legal Regulations:</strong> Ensure compliance with laws and regulations to avoid legal issues.</li>
+<li><strong>Conduct Control Testing:</strong> Regularly assess and test security measures for effectiveness.</li>
 <h3>Terms & Definitions:</h3>
 <li><strong>PII (Personally Identifiable Information):</strong> Data that can identify an individual, such as name, address, or phone number.</li>
 <li><strong>SPII (Sensitive Personally Identifiable Information):</strong> PII that requires extra protection, such as Social Security numbers, financial details, or medical records.</li>
