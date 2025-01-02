@@ -42,6 +42,7 @@
 <li><strong>IP (Internet Protocol):</strong> Routes and addresses data packets across networks.</li>
 <li><strong>ISP (Internet Service Provider):</strong> A company that provides internet access to individuals and businesses.</li>
 <li><strong>ITCP (Transmission Control Protocol):</strong> Ensures reliable, in-order delivery of data.</li>
+<li><strong>UDP (User Datagram Protocol):</strong> is a fast, connectionless protocol for sending data without guarantees of delivery or order.</li>
 <li><strong>OSI (Open Systems Interconnection) Model:</strong> A 7-layer framework for network communication and troubleshooting.</li>
 <li><strong>HTTP (Hypertext Transfer Protocol):</strong> Transfers web pages over the internet. (Port 80).</li>
 <li><strong>FTP (File Transfer Protocol):</strong> Transfers files between computers securely. (Port 20, 21).</li>
