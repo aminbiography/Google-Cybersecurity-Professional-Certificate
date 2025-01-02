@@ -43,7 +43,7 @@
 <li><strong>Ransomware:</strong> Malicious software that encrypts data, demanding payment for access restoration.</li>
 <li><strong>Vulnerabilities:</strong> Weak points in systems (e.g., ProxyLogon, ZeroLogon) that threat actors can exploit.</li>
 <li><strong>NIST (National Institute of Standards and Technology):</strong> A U.S. government agency that develops standards and guidelines to enhance cybersecurity.</li>
-<li><strong>OWASP (Open Web Application Security Project):</strong> A nonprofit organization focused on improving the security of software. For more on OWASP, visit: <a href="https://owasp.org"></a></li>
+<li><strong>OWASP (Open Web Application Security Project):</strong> A nonprofit organization focused on improving the security of software. For more on OWASP, visit: <a href="https://owasp.org">Open Web Application Security Project</a></li>
 
 
 
