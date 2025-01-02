@@ -9,7 +9,7 @@
 <li><strong>Hub:</strong> A basic network device that broadcasts information to all devices within a network.</li>
 <h3>Firewall</h3>
 <li><strong>Purpose:</strong> Protects networks by monitoring and controlling traffic.</li>
-<li><strong>Placement:</strong> Between internal (trusted) and external (untrusted) networks. often operating at OSI Layers 3 (Network) and 4 (Transport)</li>
+<li><strong>Placement:</strong> Positioned between trusted (internal) and untrusted (external) networks; operates at OSI Layers 3 (Network) and 4 (Transport), sometimes extending to Layer 7 (Application).</li>
 <li><strong>Types:</strong> <b>Hardware Firewall:</b> Physical devices. <b>Software Firewall:</b> Installed on individual devices.</li>
 <li><strong>Functions:</strong> Blocks unauthorized access; Filters traffic by IP, port, or protocol; Protects against malware and cyber threats.</li>
 <h3>Types of Networks</h3>
