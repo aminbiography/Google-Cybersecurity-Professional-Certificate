@@ -6,7 +6,7 @@
 <li><strong>Deep Web:</strong> Unindexed content not accessible via standard search engines, such as private databases, intranets, or logged-in data.</li>
 <li><strong>Dark Web:</strong> A small portion of the deep web, accessible only through special tools like Tor, often associated with anonymous activities and illegal content.</li>
 <h3>Risk</h3>
-<p><strong>Risks:</strong> Anything that can impact the confidentiality, integrity, or availability of an asset.</p>
+<p><strong>Risks:</strong> Anything that can impact the confidentiality, integrity, or availability of an asset or Data.</p>
 <h3>Levels of Risk</h3>
 <li><strong>Low-risk asset:</strong> Minimal impact if compromised; no harm to reputation, operations, or finances.</li>
 <li><strong>Medium-risk asset:</strong> Could cause some harm to reputation, operations, or finances if compromised.</li>
