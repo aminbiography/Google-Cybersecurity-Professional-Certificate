@@ -23,6 +23,6 @@
 <li><strong>Assess:</strong> Determine if controls are effective.</li>
 <li><strong>Authorize:</strong> Take responsibility for the organization’s security.</li>
 <li><strong>Monitor:</strong> Continuously track system operations for ongoing security.</li>
-<h3><strong>OWASP (Open Web Application Security Project):</strong> A nonprofit organization focused on improving the security of software: [OWASP](https://owasp.org)</h3>
+<h3>OWASP (Open Web Application Security Project):</h3> A nonprofit organization focused on improving the security of software: [OWASP](https://owasp.org)
 
 
