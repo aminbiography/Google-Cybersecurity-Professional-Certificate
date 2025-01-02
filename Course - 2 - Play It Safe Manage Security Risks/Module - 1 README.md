@@ -16,7 +16,7 @@
 <h3>Types of Threats</h3>
 <li><strong>External Threats:</strong> From outside the organization, such as hackers.</li>
 <li><strong>Internal Threats:</strong> From current or former employees or trusted partners.</li>
-<h3>Consequences of Security Breaches</h3>
+<h3>Impact of Security Breaches</h3>
 <li><strong>Reputation Damage:</strong> Loss of trust and negative publicity.</li>
 <li><strong>Financial Losses:</strong> Recovery costs, fines, or lost business.</li>
 <h3>NIST Risk Management Framework (RMF) Steps</h3>
