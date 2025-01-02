@@ -19,7 +19,7 @@
 <li><strong>External Threats:</strong> From outside the organization, such as hackers.</li>
 <li><strong>Internal Threats:</strong> From current or former employees or trusted partners.</li>
 <li><strong>Risks:</strong> Anything that can impact the confidentiality, integrity, or availability of an asset.</li>
-<h3>Risk Management Framework (RMF) Steps</h3>
+<h3>NIST Risk Management Framework (RMF) Steps</h3>
 <li><strong>Prepare:</strong> Activities to manage risks before an incident occurs.</li>
 <li><strong>Categorize:</strong> Develop risk management processes and frameworks.</li>
 <li><strong>Select:</strong> Choose and document security controls.</li>
