@@ -9,16 +9,16 @@
 <li><strong>Risks:</strong> Anything that can impact the confidentiality, integrity, or availability of an asset.</li>
 <li><strong>Low-risk asset:</strong> Minimal impact if compromised; no harm to reputation, operations, or finances.</li>
 <li><strong>Medium-risk asset:</strong> Could cause some harm to reputation, operations, or finances if compromised.</li>
-<li><strong>High-risk asset:</strong> Critical assets protected by regulations or laws (e.g., Intellectual Property, PII, SPII).</li>
+<li><strong>High-risk asset:</strong> Critical assets protected by regulations or laws (e.g., IP, PII, SPII).</li>
 <h3>Security Posture</h3>
 <li><strong>Definition:</strong> An organization’s ability to manage defense of critical assets and data and react to changes.</li>
 <li><strong>Importance:</strong> A strong security posture is essential to adapt and respond effectively to new threats.</li>
-<h3>Consequences of Security Breaches</h3>
-<li><strong>Reputation Damage:</strong> Loss of trust and negative publicity.</li>
-<li><strong>Financial Losses:</strong> Recovery costs, fines, or lost business.</li>
 <h3>Types of Threats</h3>
 <li><strong>External Threats:</strong> From outside the organization, such as hackers.</li>
 <li><strong>Internal Threats:</strong> From current or former employees or trusted partners.</li>
+<h3>Consequences of Security Breaches</h3>
+<li><strong>Reputation Damage:</strong> Loss of trust and negative publicity.</li>
+<li><strong>Financial Losses:</strong> Recovery costs, fines, or lost business.</li>
 <h3>NIST Risk Management Framework (RMF) Steps</h3>
 <li><strong>Prepare:</strong> Activities to manage risks before an incident occurs.</li>
 <li><strong>Categorize:</strong> Develop risk management processes and frameworks.</li>
@@ -37,6 +37,7 @@
 <li><strong>Follow Legal Regulations:</strong> Ensure compliance with laws and regulations to avoid legal issues.</li>
 <li><strong>Conduct Control Testing:</strong> Regularly assess and test security measures for effectiveness.</li>
 <h3>Terms & Definitions:</h3>
+<li><strong>IP (Intellectual Property):</strong> Legal rights protecting creations like inventions, designs, and trademarks.</li>
 <li><strong>PII (Personally Identifiable Information):</strong> Data that can identify an individual, such as name, address, or phone number.</li>
 <li><strong>SPII (Sensitive Personally Identifiable Information):</strong> PII that requires extra protection, such as Social Security numbers, financial details, or medical records.</li>
 <li><strong>Ransomware:</strong> Malicious software that encrypts data, demanding payment for access restoration.</li>
