@@ -31,7 +31,14 @@
 <li><strong>Collect and Analyze Data:</strong> Gathering data is crucial for identifying potential security issues.</li>
 <li><strong>Perform Security Audits:</strong> Audits help evaluate the effectiveness of security measures.</li>
 <li><strong>Conduct Security Control Testing:</strong> Ensures that security controls are functioning as intended.</li>
-<h3>OWASP (Open Web Application Security Project):</h3> A nonprofit organization focused on improving the security of software: https://owasp.org
+<h3>Terms & Definitions:</h3>
+<li><strong>PII (Personally Identifiable Information):</strong> Data that can identify an individual, such as name, address, or phone number.</li>
+<li><strong>SPII (Sensitive Personally Identifiable Information):</strong> PII that requires extra protection, such as Social Security numbers, financial details, or medical records.</li>
+<li><strong>Ransomware:</strong> Malicious software that encrypts data, demanding payment for access restoration.</li>
+<li><strong>Vulnerabilities:</strong> Weak points in systems (e.g., ProxyLogon, ZeroLogon) that threat actors can exploit.</li>
+<li><strong>NIST (National Institute of Standards and Technology):</strong> A U.S. government agency that develops standards and guidelines to enhance cybersecurity.</li>
+<li><strong>OWASP (Open Web Application Security Project):</strong> A nonprofit organization focused on improving the security of software: https://owasp.org</li>
+
 
 
 
