@@ -10,7 +10,7 @@
 <h3>Firewall</h3>
 <li><strong>Purpose:</strong> Protects networks by monitoring and controlling traffic.</li>
 <li><strong>Placement:</strong> Between internal (trusted) and external (untrusted) networks. often operating at OSI Layers 3 (Network) and 4 (Transport)</li>
-<li><strong>Types:</strong> <p>Hardware Firewall:</p> Physical devices. <p>Software Firewall:</p> Installed on individual devices.</li>
+<li><strong>Types:</strong> <b>Hardware Firewall:</b> Physical devices. <b>Software Firewall:</b> Installed on individual devices.</li>
 <li><strong>Functions:</strong> Blocks unauthorized access; Filters traffic by IP, port, or protocol; Protects against malware and cyber threats.</li>
 <h3>Types of Networks</h3>
 <li><strong>LAN (Local Area Network):</strong> Covers small geographic areas like offices, homes, or schools.</li>
