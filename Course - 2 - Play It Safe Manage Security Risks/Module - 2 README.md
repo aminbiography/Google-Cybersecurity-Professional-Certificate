@@ -61,22 +61,22 @@ The **CIA Triad** is foundational for cybersecurity:
 
 - **Biometrics:** Using unique physical characteristics, such as fingerprints or eye scans, for authentication to verify identity.
  
-- **Physical Controls** These refer to the tangible measures that protect physical access to systems and infrastructure, such as:
- - **Fences and Guards**: To prevent unauthorized access to premises.
- - **CCTV**: To monitor activities and deter criminal behavior.
- - **Access Badges**: To restrict entry to sensitive areas based on permissions.
+ - **Physical Controls** These refer to the tangible measures that protect physical access to systems and infrastructure, such as:
+  - **Fences and Guards**: To prevent unauthorized access to premises.
+  - **CCTV**: To monitor activities and deter criminal behavior.
+  - **Access Badges**: To restrict entry to sensitive areas based on permissions.
 
-- **Technical Controls** Technical Controls are critical components of an organization's security infrastructure:
- - **Firewalls**: Act as barriers between trusted internal networks and external, untrusted networks (like the internet), controlling incoming and outgoing traffic based on predefined security rules.
- - **Intrusion Detection Systems (IDS)**: Monitor network traffic to detect suspicious activity or policy violations, often triggering alerts for further investigation.
- - **Antivirus Software**: Detects, prevents, and removes malicious software (malware) that could damage systems, steal information, or disrupt operations.
- - **Multi-Factor Authentication (MFA)**: MFA is a security method that requires two or more verification factors to access a system.
+ - **Technical Controls** Technical Controls are critical components of an organization's security infrastructure:
+  - **Firewalls**: Act as barriers between trusted internal networks and external, untrusted networks (like the internet), controlling incoming and outgoing traffic based on predefined security rules.
+  - **Intrusion Detection Systems (IDS)**: Monitor network traffic to detect suspicious activity or policy violations, often triggering alerts for further investigation.
+  - **Antivirus Software**: Detects, prevents, and removes malicious software (malware) that could damage systems, steal information, or disrupt operations.
+  - **Multi-Factor Authentication (MFA)**: MFA is a security method that requires two or more verification factors to access a system.
 
-- **Administrative Controls**
+ - **Administrative Controls**
 These are policies, procedures, and guidelines that ensure proper system management, access control, and security. Examples include:
- - **Authorization**: Granting or denying access to resources based on roles or privileges within an organization.
- - **Security Training**: Educating employees about risks and best practices to enhance organizational security.
- - **Auditing**: Regularly reviewing activities and records to ensure compliance with security policies.
+  - **Authorization**: Granting or denying access to resources based on roles or privileges within an organization.
+  - **Security Training**: Educating employees about risks and best practices to enhance organizational security.
+  - **Auditing**: Regularly reviewing activities and records to ensure compliance with security policies.
 
 
 ---
