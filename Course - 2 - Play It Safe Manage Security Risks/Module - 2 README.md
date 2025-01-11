@@ -57,10 +57,10 @@ The **CIA Triad** is foundational for cybersecurity:
 
 ## Tools & Technologies
 
-#### Encryption:
+_Encryption:
 Protecting data by converting it into an unreadable format to ensure confidentiality and security.
 
-#### Biometrics:
+_Biometrics:
 Using unique physical characteristics, such as fingerprints or eye scans, for authentication to verify identity.
  
 #### Physical Controls
