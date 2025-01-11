@@ -2,7 +2,6 @@
 
 # Security Frameworks, Controls, and Compliance
 
-This document provides a structured overview of key concepts, frameworks, and compliance regulations to help you prepare for cybersecurity-related interviews. The content focuses on security frameworks, the CIA triad, core security concepts, internal security audits, compliance requirements, and more.
 
 ## 1. Security Frameworks & Posture
 - **Security Frameworks** (e.g., NIST CSF, NIST SP 800-53) are essential in developing an organization’s security posture. They provide guidance on managing cybersecurity risks, protecting critical data, and ensuring business continuity.
