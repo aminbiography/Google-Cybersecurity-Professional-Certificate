@@ -56,8 +56,22 @@ The **CIA Triad** is foundational for cybersecurity:
 
 ---
 
-## Terums & definition 
+## Key Terms and Definitions
 
+- **Asset**: Valuable items for an organization.
+- **Attack Vectors**: Pathways attackers use to breach security.
+- **Biometrics**: Physical characteristics for identity verification.
+- **Detect**: NIST function for identifying security incidents.
+- **Encryption**: Converting data to an unreadable format.
+- **Identify**: NIST function for managing cybersecurity risk.
+- **NIST CSF**: Framework for managing cybersecurity risk.
+- **OWASP**: Non-profit focused on software security.
+- **Protect**: NIST function to implement security measures.
+- **Respond**: NIST function for managing security incidents.
+- **Risk**: Threats that impact confidentiality, integrity, or availability.
+- **Security Audit**: Review of security policies and controls.
+- **Security Posture**: Organization's defense capability.
+- **Threat**: Event that can harm assets.
 
 ---
 
