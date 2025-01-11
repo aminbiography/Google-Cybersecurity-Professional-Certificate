@@ -44,8 +44,9 @@ The **CIA Triad** is foundational for cybersecurity:
 - A **risk assessment** helps identify potential threats, vulnerabilities, and determines the security measures to mitigate those risks.
 
 ## Key Compliance Frameworks
-- **PCI DSS**: Protects payment card information, mandates encryption, and secure password management.
-- **GDPR**: Focuses on protecting EU customer data, ensuring proper data classification, and implementing notification procedures in case of a breach.
+- **PCI DSS (Payment Card Industry Data Security Standard)**: Protects payment card information, mandates encryption, and secure password management.
+- **GDPR (General Data Protection Regulation)**: Focuses on protecting EU customer data, ensuring proper data classification, and implementing notification procedures in case of a breach.
+ - **SOC (System and Organization Controls) standards**: Assess controls in service organizations, focusing on security, confidentiality, and availability. Includes SOC 1, SOC 2, and SOC 3 reports for different compliance levels.
 
 ## Security Audits & Reporting
 - After an audit, key findings (e.g., risks, recommendations) are communicated to stakeholders.
