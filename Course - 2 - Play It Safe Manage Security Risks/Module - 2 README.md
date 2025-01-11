@@ -69,7 +69,6 @@ The **CIA Triad** is foundational for cybersecurity:
 - **Threat**: Event that can harm assets.
 - **Attack Vectors**: Pathways attackers use to breach security.
 - **Risk**: Threats that impact confidentiality, integrity, or availability.
-- **NIST CSF**: Framework for managing cybersecurity risk.
 - **Security Audit**: Review of security policies and controls.
 
 ---
