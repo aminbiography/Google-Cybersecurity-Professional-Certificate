@@ -60,6 +60,38 @@ The **CIA Triad** is foundational for cybersecurity:
 - **Biometrics**: Using unique physical characteristics, such as fingerprints or eye scans, for authentication to verify identity.
 - **Firewalls, IDS (Intrusion Detection Systems), Antivirus**: Tools used for protecting systems from unauthorized access, detecting intrusions, and preventing malware infections.
 
+## Tools & Technologies
+
+- **Encryption**: Protecting data by converting it into an unreadable format to ensure confidentiality and security.
+- **Biometrics**: Using unique physical characteristics, such as fingerprints or eye scans, for authentication to verify identity.
+
+## 3. Firewalls, IDS, Antivirus
+These are critical components of an organization's security infrastructure:
+
+- **Firewalls**: Act as barriers between trusted internal networks and external, untrusted networks (like the internet), controlling incoming and outgoing traffic based on predefined security rules.
+- **Intrusion Detection Systems (IDS)**: Monitor network traffic to detect suspicious activity or policy violations, often triggering alerts for further investigation.
+- **Antivirus Software**: Detects, prevents, and removes malicious software (malware) that could damage systems, steal information, or disrupt operations.
+
+## 4. Physical Controls
+These refer to the tangible measures that protect physical access to systems and infrastructure, such as:
+
+- **Fences and Guards**: To prevent unauthorized access to premises.
+- **CCTV**: To monitor activities and deter criminal behavior.
+- **Access Badges**: To restrict entry to sensitive areas based on permissions.
+
+## 5. Technical Controls
+Technical controls are systems or software designed to enforce security measures, including:
+
+- **Firewalls**, **Antivirus Software**, and **Two-Factor Authentication (2FA)**, which ensure that systems are secured, monitored, and only accessible by authorized users.
+
+## 6. Administrative Controls
+These are policies, procedures, and guidelines that ensure proper system management, access control, and security. Examples include:
+
+- **Authorization**: Granting or denying access to resources based on roles or privileges within an organization.
+- **Security Training**: Educating employees about risks and best practices to enhance organizational security.
+- **Auditing**: Regularly reviewing activities and records to ensure compliance with security policies.
+
+
 ---
 
 ## Terms and Definitions
