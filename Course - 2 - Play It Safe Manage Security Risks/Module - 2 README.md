@@ -4,8 +4,8 @@
 
 
 ## Security Frameworks & Posture
-- **Security Frameworks** (e.g., NIST CSF, NIST SP 800-53) are essential in developing an organization’s security posture. They provide guidance on managing cybersecurity risks, protecting critical data, and ensuring business continuity.
-- Frameworks offer standards, guidelines, and best practices to help reduce risk, ensure compliance, and defend against cyber threats.
+- **Security Frameworks:** A set of guidelines, standards, and best practices designed to help organizations manage cybersecurity risks, protect critical data, and maintain compliance. Examples include NIST CSF and NIST SP 800-53.
+- **Security Posture:** The overall security status of an organization, determined by its ability to defend critical assets, identify potential threats, and react effectively to changing security needs.
 
 ## CIA Triad
 The **CIA Triad** is foundational for cybersecurity:
