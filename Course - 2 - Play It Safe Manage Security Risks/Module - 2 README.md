@@ -16,7 +16,7 @@ The **CIA Triad** is foundational for cybersecurity:
 ## Core Security Concepts
 - **Authentication**: The process of verifying who a person is.
 - **Authorization**: Granting access to resources based on permissions.
-- **Biometrics** (e.g., fingerprints, palm scan, eye scan) Physical characteristics for identity verification.
+- **Biometrics**: (e.g., fingerprints, palm scan, eye scan) Physical characteristics for identity verification.
 - **Encryption**: Protects data by converting it into an unreadable format.
 - **Security Controls**: Safeguards (technical, physical, administrative) used to protect systems and data from threats.
 
@@ -26,7 +26,7 @@ The **CIA Triad** is foundational for cybersecurity:
   - **Protect**: NIST function to implement security measures.
   - **Detect**: NIST function for identifying security incidents.
   - **Respond**: NIST function for managing security incidents.
-  - **Recover** NIST function for restoring systems and operations after a security incident.
+  - **Recover**: NIST function for restoring systems and operations after a security incident.
 - **OWASP Secure Design Principles (Non-profit focused on software security)**: Focus on simplicity (e.g., Keep security simple), implementing defense in depth, and applying the principle of least privilege.
 
 ## Internal Security Audits
