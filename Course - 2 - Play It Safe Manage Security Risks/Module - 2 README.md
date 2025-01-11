@@ -57,12 +57,8 @@ The **CIA Triad** is foundational for cybersecurity:
 
 ---
 
-## Example Interview Questions
-- What is the CIA triad, and how does it relate to cybersecurity?
-- Can you explain how security frameworks like NIST CSF help manage cybersecurity risks?
-- Describe the process of an internal security audit. What are the key objectives?
-- How would you prioritize security controls for an organization based on a risk assessment?
-- What compliance regulations should a company adhere to if it handles payment card data or EU customer data?
+## Terums & definition 
+
 
 ---
 
