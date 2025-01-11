@@ -22,12 +22,12 @@ The **CIA Triad** is foundational for cybersecurity:
 
 ## 4. Key Security Frameworks
 - **NIST CSF**: A voluntary framework that helps organizations manage cybersecurity risks across five core functions:
-  - **Identify**
-  - **Protect**
-  - **Detect**
-  - **Respond**
-  - **Recover**
-- **OWASP Secure Design Principles**: Focus on simplicity (e.g., Keep security simple), implementing defense in depth, and applying the principle of least privilege.
+  - **Identify**: NIST function for managing cybersecurity risk.
+  - **Protect**: NIST function to implement security measures.
+  - **Detect**: NIST function for identifying security incidents.
+  - **Respond**: NIST function for managing security incidents.
+  - **Recover** NIST function for restoring systems and operations after a security incident.
+- **OWASP Secure Design Principles (Non-profit focused on software security)**: Focus on simplicity (e.g., Keep security simple), implementing defense in depth, and applying the principle of least privilege.
 
 ## 5. Internal Security Audits
 - An **Internal Security Audit** assesses an organization’s security policies, controls, and practices.
@@ -56,22 +56,17 @@ The **CIA Triad** is foundational for cybersecurity:
 
 ---
 
-## Key Terms and Definitions
+## Terms and Definitions
 
 - **Asset**: Valuable items for an organization.
-- **Attack Vectors**: Pathways attackers use to breach security.
-- **Biometrics**: Physical characteristics for identity verification.
-- **Detect**: NIST function for identifying security incidents.
-- **Encryption**: Converting data to an unreadable format.
-- **Identify**: NIST function for managing cybersecurity risk.
-- **NIST CSF**: Framework for managing cybersecurity risk.
-- **OWASP**: Non-profit focused on software security.
-- **Protect**: NIST function to implement security measures.
-- **Respond**: NIST function for managing security incidents.
-- **Risk**: Threats that impact confidentiality, integrity, or availability.
-- **Security Audit**: Review of security policies and controls.
 - **Security Posture**: Organization's defense capability.
 - **Threat**: Event that can harm assets.
+- **Attack Vectors**: Pathways attackers use to breach security.
+- **Risk**: Threats that impact confidentiality, integrity, or availability.
+- **Biometrics**: Physical characteristics for identity verification.
+- **Encryption**: Converting data to an unreadable format.
+- **NIST CSF**: Framework for managing cybersecurity risk.
+- **Security Audit**: Review of security policies and controls.
 
 ---
 
