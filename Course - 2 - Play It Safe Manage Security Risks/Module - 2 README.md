@@ -54,16 +54,11 @@ The **CIA Triad** is foundational for cybersecurity:
   - Results and recommendations
   - A list of existing risks
   - A summary of the audit scope
- 
-## Tools & Technologies
-- **Encryption**: Protecting data by converting it into an unreadable format to ensure confidentiality and security.
-- **Biometrics**: Using unique physical characteristics, such as fingerprints or eye scans, for authentication to verify identity.
-- **Firewalls, IDS (Intrusion Detection Systems), Antivirus**: Tools used for protecting systems from unauthorized access, detecting intrusions, and preventing malware infections.
 
 ## Tools & Technologies
 
-- #### Encryption: Protecting data by converting it into an unreadable format to ensure confidentiality and security.
-- #### Biometrics: Using unique physical characteristics, such as fingerprints or eye scans, for authentication to verify identity.
+#### Encryption: Protecting data by converting it into an unreadable format to ensure confidentiality and security.
+#### Biometrics: Using unique physical characteristics, such as fingerprints or eye scans, for authentication to verify identity.
 
 #### Firewalls, IDS, Antivirus
 These are critical components of an organization's security infrastructure:
