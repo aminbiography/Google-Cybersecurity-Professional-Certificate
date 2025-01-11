@@ -57,29 +57,29 @@ The **CIA Triad** is foundational for cybersecurity:
 
 ## Tools & Technologies
 
-#### Encryption: Protecting data by converting it into an unreadable format to ensure confidentiality and security.
-#### Biometrics: Using unique physical characteristics, such as fingerprints or eye scans, for authentication to verify identity.
+**Encryption:** Protecting data by converting it into an unreadable format to ensure confidentiality and security.
+**Biometrics:** Using unique physical characteristics, such as fingerprints or eye scans, for authentication to verify identity.
 
-#### Firewalls, IDS, Antivirus
+**Firewalls, IDS, Antivirus**
 These are critical components of an organization's security infrastructure:
 
 - **Firewalls**: Act as barriers between trusted internal networks and external, untrusted networks (like the internet), controlling incoming and outgoing traffic based on predefined security rules.
 - **Intrusion Detection Systems (IDS)**: Monitor network traffic to detect suspicious activity or policy violations, often triggering alerts for further investigation.
 - **Antivirus Software**: Detects, prevents, and removes malicious software (malware) that could damage systems, steal information, or disrupt operations.
 
-#### Physical Controls
+**Physical Controls**
 These refer to the tangible measures that protect physical access to systems and infrastructure, such as:
 
 - **Fences and Guards**: To prevent unauthorized access to premises.
 - **CCTV**: To monitor activities and deter criminal behavior.
 - **Access Badges**: To restrict entry to sensitive areas based on permissions.
 
-#### Technical Controls
+**Technical Controls**
 Technical controls are systems or software designed to enforce security measures, including:
 
 - **Firewalls**, **Antivirus Software**, and **Two-Factor Authentication (2FA)**, which ensure that systems are secured, monitored, and only accessible by authorized users.
 
-#### Administrative Controls
+**Administrative Controls**
 These are policies, procedures, and guidelines that ensure proper system management, access control, and security. Examples include:
 
 - **Authorization**: Granting or denying access to resources based on roles or privileges within an organization.
