@@ -16,12 +16,12 @@ The **CIA Triad** is foundational for cybersecurity:
 ## Core Security Concepts
 - **Authentication**: The process of verifying who a person is.
 - **Authorization**: Granting access to resources based on permissions.
-- **Biometrics** (e.g., fingerprints, palm scan, eye scan) are used for identity verification.
+- **Biometrics** (e.g., fingerprints, palm scan, eye scan) Physical characteristics for identity verification.
 - **Encryption**: Protects data by converting it into an unreadable format.
 - **Security Controls**: Safeguards (technical, physical, administrative) used to protect systems and data from threats.
 
 ## Security Frameworks
-- **NIST CSF**: A voluntary framework that helps organizations manage cybersecurity risks across five core functions:
+- **NIST CSF**: A voluntary framework that helps organizations manage cybersecurity risks, across five core functions:
   - **Identify**: NIST function for managing cybersecurity risk.
   - **Protect**: NIST function to implement security measures.
   - **Detect**: NIST function for identifying security incidents.
@@ -69,8 +69,6 @@ The **CIA Triad** is foundational for cybersecurity:
 - **Threat**: Event that can harm assets.
 - **Attack Vectors**: Pathways attackers use to breach security.
 - **Risk**: Threats that impact confidentiality, integrity, or availability.
-- **Biometrics**: Physical characteristics for identity verification.
-- **Encryption**: Converting data to an unreadable format.
 - **NIST CSF**: Framework for managing cybersecurity risk.
 - **Security Audit**: Review of security policies and controls.
 
