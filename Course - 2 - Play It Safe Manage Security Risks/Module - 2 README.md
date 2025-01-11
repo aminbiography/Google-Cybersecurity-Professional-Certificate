@@ -65,7 +65,6 @@ The **CIA Triad** is foundational for cybersecurity:
 ## Terms and Definitions
 
 - **Asset**: Valuable items for an organization.
-- **Security Posture**: Organization's defense capability.
 - **Threat**: Event that can harm assets.
 - **Attack Vectors**: Pathways attackers use to breach security.
 - **Risk**: Threats that impact confidentiality, integrity, or availability.
