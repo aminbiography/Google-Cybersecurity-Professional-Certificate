@@ -17,4 +17,4 @@ Live URL: https://aminbiography.github.io/Google-Cybersecurity-Professional-Cert
 --------------------------------------------------------------------------------------------------------------------
 
 
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CIUW7RTZ0CA0/CERTIFICATE_LANDING_PAGE~CIUW7RTZ0CA0.jpeg" alt="Certificate Preview" width="300" height="300">  
+[![Google Drive](https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png)](https://drive.google.com/drive/recent)  
