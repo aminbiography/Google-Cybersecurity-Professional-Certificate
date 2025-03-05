@@ -67,7 +67,10 @@ elif x == 5:
     print("x is 5")
 else:
     print("x is less than 5")
+```
 
+Or,
+```
 failed_attempts = 4
 if failed_attempts > 3:
     print("Account Locked")
