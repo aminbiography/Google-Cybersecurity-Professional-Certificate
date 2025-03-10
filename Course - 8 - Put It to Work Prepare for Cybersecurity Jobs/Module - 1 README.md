@@ -110,7 +110,7 @@ while count < 5:
 ### **Break: Exits the loop early when a condition is met.**
 
 ```python
-print("\n--- Break: Exits the loop early when a condition is met ---")
+# print("\n--- Break: Exits the loop early when a condition is met ---")
 
 for i in range(10):
     if i == 5:
@@ -121,7 +121,7 @@ for i in range(10):
 
 ### Continue: Skips the current iteration and proceeds to the next.
 ```python
-print("\n--- Continue: Skips the current iteration and proceeds to the next ---")
+# print("\n--- Continue: Skips the current iteration and proceeds to the next ---")
 
 for i in range(5):
     if i == 3:
