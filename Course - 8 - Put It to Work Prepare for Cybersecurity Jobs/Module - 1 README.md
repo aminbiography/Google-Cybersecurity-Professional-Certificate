@@ -80,6 +80,10 @@ failed_attempts = 4
 
 
 ## 3. Iterative Statements (Loops)
+### **Creating Loops in Python**
+Loops help automate repetitive tasks. Python supports:
+**For loops** - Used when iterating over a known sequence (lists, strings, ranges).  
+**While loops** - Used when repeating an action until a condition is met.
 
 ### **For Loop**: Iterates over sequences (lists, strings, range).  
 
@@ -96,6 +100,12 @@ while count < 5:
     print("Warning")
     count += 1
 ```
+
+### **Loop Control:**
+- `break`: Break: Exits the loop early when a condition is met.  
+- `continue`: Skips the current iteration and proceeds to the next.
+
+---
 
 ### **Break: Exits the loop early when a condition is met.**
 
@@ -118,14 +128,6 @@ for i in range(5):
         continue  # Skips printing 3
     print(i)
 ```
-
-### **Loop Control:**
-- `break`: Exits the loop.  
-- `continue`: Skips the current iteration.
-
----
-
-
 
 ## 4. Cybersecurity Applications
 
