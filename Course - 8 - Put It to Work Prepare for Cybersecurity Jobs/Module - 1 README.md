@@ -100,7 +100,6 @@ while count < 5:
 ### print("\n--- Break: Exits the loop early when a condition is met ---")
 
 ```
-# Break: Exits the loop early when a condition is met.
 for i in range(10):
     if i == 5:
         break  # Stops the loop at 5
@@ -110,7 +109,6 @@ for i in range(10):
 ### print("\n--- Continue: Skips the current iteration and proceeds to the next ---")
 
 ```
-# Continue: Skips the current iteration and proceeds to the next.
 for i in range(5):
     if i == 3:
         continue  # Skips printing 3
