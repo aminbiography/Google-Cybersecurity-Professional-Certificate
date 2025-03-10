@@ -97,15 +97,16 @@ while count < 5:
     count += 1
 ```
 
-### Break: Exits the loop early when a condition is met.
-```
+### **Break: Exits the loop early when a condition is met.**
+
+```python
 print("\n--- Break: Exits the loop early when a condition is met ---")
 
 for i in range(10):
     if i == 5:
         break  # Stops the loop at 5
     print(i)
-```
+
 ### Continue: Skips the current iteration and proceeds to the next.
 ```
 print("\n--- Continue: Skips the current iteration and proceeds to the next ---")
