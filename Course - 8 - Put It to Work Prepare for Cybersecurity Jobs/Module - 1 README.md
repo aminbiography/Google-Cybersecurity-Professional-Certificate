@@ -111,11 +111,14 @@ for i in range(10):
 ```
 print("\n--- Continue: Skips the current iteration and proceeds to the next ---")
 
+### Continue: Skips the current iteration and proceeds to the next.
+print("\n--- Continue: Skips the current iteration and proceeds to the next ---")
+
 for i in range(5):
     if i == 3:
         continue  # Skips printing 3
     print(i)
- ```
+
 ### **Loop Control:**
 - `break`: Exits the loop.  
 - `continue`: Skips the current iteration.
