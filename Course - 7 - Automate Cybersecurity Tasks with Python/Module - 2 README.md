@@ -1,4 +1,4 @@
-# Python 
+# Understanding Functions and Modules in Python
 
 ## 1. Functions
 - A **function** is a reusable section of code.
