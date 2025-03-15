@@ -1,4 +1,4 @@
-# Python Revision Notes
+# Python 
 
 ## 1. Functions
 - A **function** is a reusable section of code.
