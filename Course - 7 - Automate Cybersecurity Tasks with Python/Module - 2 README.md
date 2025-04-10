@@ -1,6 +1,6 @@
 # Understanding Functions, Modules & Readability in Python
 
-## . Functions
+## Functions
 - A **function** is a reusable section of code.
 - Defined using the `def` keyword, e.g., `def function_name():`.
 - Functions can **return** values using the `return` statement.
@@ -107,7 +107,7 @@ Readable code is easier to understand, maintain, and debug—especially in colla
 
 ---
 
-### Q11: How do you calculate the average or median in Python?
+#### How do you calculate the average or median in Python?
 
 ```python
 import statistics
