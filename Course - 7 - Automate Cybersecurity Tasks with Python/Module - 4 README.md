@@ -1,6 +1,4 @@
-# 
-
-A concise guide to essential Python concepts with examples — great for interviews, beginners, or as a cheat sheet.
+# Python Handbook for Cybersecurity Automation
 
 ---
 
