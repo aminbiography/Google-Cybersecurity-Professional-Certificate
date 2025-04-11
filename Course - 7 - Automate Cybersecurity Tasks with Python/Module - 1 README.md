@@ -131,9 +131,9 @@ for i in range(5):
 
 ## 4. Cybersecurity Applications
 
-✔ **Checking User Login Attempts**: Ensuring restricted access after multiple failed logins.  
-✔ **Validating IP Addresses**: Matching login IPs with an allow-list using loops and conditions.  
-✔ **Generating Employee IDs**: Automating ID creation using while loops.  
+- **Checking User Login Attempts**: Ensuring restricted access after multiple failed logins.  
+- **Validating IP Addresses**: Matching login IPs with an allow-list using loops and conditions.  
+- **Generating Employee IDs**: Automating ID creation using while loops.  
 
 
 ---
