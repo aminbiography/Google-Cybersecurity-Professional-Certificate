@@ -1,9 +1,9 @@
 # Cybersecurity Python: Key Concepts
 
 ## Why choose Python for automation?
-✔ Python is easy to read and resembles human language.  
-✔ Python follows standard coding guidelines.  
-✔ Python has strong online support.  
+- Python is easy to read and resembles human language.  
+- Python follows standard coding guidelines.  
+- Python has strong online support.  
 
 ### Python in Cybersecurity:
 ✔ Log analysis  
