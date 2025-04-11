@@ -90,7 +90,7 @@ my_list.append("new_item")  # List becomes [1, 2, 3, "new_item"]
 ---
 ---
 
-## Additional
+# Additional
 ---
 ## File Handling & Exception Handling in Python
 ---
