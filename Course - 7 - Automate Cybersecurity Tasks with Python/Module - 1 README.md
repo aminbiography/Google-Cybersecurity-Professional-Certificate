@@ -33,11 +33,11 @@ is_active = True  # Boolean
 ### More Data Types
 
 - **Tuple**: Immutable collection, defined using `()`.  
-  Example: `("wjaffrey", 13, True)`  
+  Example: ```("wjaffrey", 13, True)```  
 - **Dictionary**: Key-value pairs, defined using `{}`.  
-  Example: `{1: "East", 2: "West"}`  
+  Example: ```{1: "East", 2: "West"}```  
 - **Set**: Unordered collection of unique values, defined using `{}`.  
-  Example: `{"jlanksy", "drosas", "nmason"}`  
+  Example: ```{"jlanksy", "drosas", "nmason"}```  
 
 ### Data Structures
 
