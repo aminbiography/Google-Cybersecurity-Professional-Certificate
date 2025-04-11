@@ -141,6 +141,9 @@ my_dog = Dog()  # my_dog is an object of the Dog class
 my_dog.bark()   # Output: Woof!
 ```
 
+---
+
+
 #### What is the __init__ method?
 **Answer:**  
 The __init__ method is a constructor in Python that is automatically called when a new object is created. It is used to initialize the object's attributes.
@@ -153,6 +156,9 @@ class Person:
 p = Person("Alice")
 print(p.name)  # Output: Alice
 ```
+
+---
+
 
 #### What is the purpose of self?
 **Answer:**  
@@ -172,6 +178,9 @@ class Employee:
         print(f"{self.name} works in {self.department}")
 ```
 
+---
+
+
 #### What is inheritance in Python?
 **Answer:** 
 Inheritance allows a class (child) to inherit the attributes and methods of another class (parent).
@@ -187,6 +196,9 @@ class Car(Vehicle):
 c = Car()
 c.move()  # Output: Moving...
 ```
+
+---
+
 
 #### What is method overriding?
 **Answer:** 
@@ -205,6 +217,9 @@ c = Cat()
 c.speak()  # Output: Meow
 ```
 
+---
+
+
 #### What is encapsulation?
 **Answer:** 
 Encapsulation is the practice of hiding the internal state of an object and requiring all interaction to be performed through methods.
@@ -221,6 +236,9 @@ class Dog:
     def __init__(self, name):
         self.name = name  # Instance attribute
 ```
+
+---
+
 
 #### What is the @classmethod and @staticmethod decorator?
 **Answer:** 
