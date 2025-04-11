@@ -119,7 +119,7 @@ median = statistics.median([10, 20, 30])
 ---
 ---
 
-## Additional 
+# Additional 
 ## Python Classes and Objects
 
 #### What is a class in Python?
