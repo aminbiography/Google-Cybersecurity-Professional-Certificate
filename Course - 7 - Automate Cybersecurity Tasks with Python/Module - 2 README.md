@@ -211,8 +211,8 @@ Encapsulation is the practice of hiding the internal state of an object and requ
 
 #### What is the difference between a class attribute and an instance attribute?
 **Answer:** 
-    - Class Attribute: Shared by all instances of the class.
-    - Instance Attribute: Unique to each instance.
+ - Class Attribute: Shared by all instances of the class.
+ - Instance Attribute: Unique to each instance.
 
 ```python
 class Dog:
@@ -224,8 +224,8 @@ class Dog:
 
 #### What is the @classmethod and @staticmethod decorator?
 **Answer:** 
-    - @classmethod: Takes cls as first parameter, used to access class attributes.
-    - @staticmethod: Doesn't take self or cls, behaves like a normal function inside a class.
+ - @classmethod: Takes cls as first parameter, used to access class attributes.
+    @staticmethod: Doesn't take self or cls, behaves like a normal function inside a class.
 
 ```python
 class MyClass:
