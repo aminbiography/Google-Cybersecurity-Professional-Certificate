@@ -139,9 +139,9 @@ for i in range(5):
 ---
 ---
 
-## Additional Compleate Concepts 
+# Additional Compleate Concepts 
 
-# 1. Variables & Data Types
+#### 1. Variables & Data Types
 ```Python
 x = 10         # Integer
 y = 3.14       # Float
@@ -150,7 +150,7 @@ is_active = True  # Boolean
 ```
 ---
 
-# 2. Data Structures
+#### 2. Data Structures
 ```Python
 my_list = [1, 2, 3]           # List
 my_tuple = (1, 2, 3)          # Tuple
@@ -159,7 +159,7 @@ my_dict = {"a": 1, "b": 2}    # Dictionary
 ```
 ---
 
-# 3. Conditional Statements
+#### 3. Conditional Statements
 ```Python
 if x > 5:
     print("x is greater than 5")
@@ -171,7 +171,7 @@ else:
 
 ---
 
-# 4. Loops
+#### 4. Loops
 ```Python
 for i in range(5):
     print(i)  # 0 to 4
@@ -183,7 +183,7 @@ while x > 0:
 
 ---
 
-# 5. Functions
+#### 5. Functions
 ```Python
 def greet(name):
     return f"Hello, {name}!"
@@ -193,7 +193,7 @@ print(greet("Alice"))
 
 ---
 
-# 6. Classes & Objects
+#### 6. Classes & Objects
 ```Python
 class Person:
     def __init__(self, name):
@@ -208,7 +208,7 @@ print(p.say_hello())
 
 ---
 
-# 7. File Handling
+#### 7. File Handling
 ```Python
 with open("file.txt", "w") as f:
     f.write("Hello, World!")
@@ -218,7 +218,7 @@ with open("file.txt", "r") as f:
 ```
 ---
 
-# 8. Exception Handling
+#### 8. Exception Handling
 ```Python
 try:
     result = 10 / 0
@@ -227,14 +227,14 @@ except ZeroDivisionError:
 ```
 ---
 
-# 9. List Comprehension
+#### 9. List Comprehension
 ```Python
 squares = [x**2 for x in range(5)]
 print(squares)  # [0, 1, 4, 9, 16]
 ```
 ---
 
-# 10. Importing Modules
+#### 10. Importing Modules
 ```Python
 import math
 print(math.sqrt(16))  # 4.0
