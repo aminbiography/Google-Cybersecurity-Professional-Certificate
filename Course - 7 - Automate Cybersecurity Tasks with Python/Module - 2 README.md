@@ -225,7 +225,7 @@ class Dog:
 #### What is the @classmethod and @staticmethod decorator?
 **Answer:** 
  - @classmethod: Takes cls as first parameter, used to access class attributes.
-    @staticmethod: Doesn't take self or cls, behaves like a normal function inside a class.
+ - @staticmethod: Doesn't take self or cls, behaves like a normal function inside a class.
 
 ```python
 class MyClass:
