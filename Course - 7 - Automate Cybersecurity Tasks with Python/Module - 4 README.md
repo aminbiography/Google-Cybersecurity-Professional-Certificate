@@ -113,5 +113,60 @@ def greet(name):
 **Answer:** 
 
 - **Parameter:** Variable listed in function definition  
-- **Argument:** Actual value passed to function  
+- **Argument:** Actual value passed to function
+
+---
+
+## List Comprehension in Python
+
+#### 13: What is List Comprehension?**  
+**A:**  
+List comprehension is a concise way to create lists in a single line of code, often replacing longer `for` loops.
+
+---
+
+##### Syntax
+
+```python
+[expression for item in iterable if condition]
+```
+
+---
+
+##### Basic Example
+
+```python
+squares = [x**2 for x in range(5)]
+# Output: [0, 1, 4, 9, 16]
+```
+
+---
+
+##### Cybersecurity Use Case: Filter Failed Login Attempts
+
+```python
+login_attempts = [200, 401, 403, 200, 401, 500]
+failed = [code for code in login_attempts if code != 200]
+# Output: [401, 403, 401, 500]
+```
+
+---
+
+##### Cleaning Data Example
+
+```python
+log_entries = ["allow", "deny", "", "allow", None, "deny"]
+cleaned = [entry for entry in log_entries if entry]
+# Output: ['allow', 'deny', 'allow', 'deny']
+```
+
+---
+
+##### Why Use List Comprehension?
+
+-  More readable than traditional loops  
+-  Faster execution  
+-  Cleaner code, especially for filtering or transforming lists  
+
+
 
