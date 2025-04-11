@@ -6,12 +6,12 @@
 - Python has strong online support.  
 
 ### Python in Cybersecurity:
-✔ Log analysis  
-✔ Malware analysis  
-✔ Access control management  
-✔ Intrusion detection  
-✔ Compliance checks  
-✔ Network scanning  
+- Log analysis  
+- Malware analysis  
+- Access control management  
+- Intrusion detection  
+- Compliance checks  
+- Network scanning  
 
 ---
 
