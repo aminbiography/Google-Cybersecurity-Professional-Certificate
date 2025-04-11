@@ -88,3 +88,101 @@ my_list.append("new_item")  # List becomes [1, 2, 3, "new_item"]
 ```
 
 ---
+---
+
+## Additional
+---
+## File Handling & Exception Handling in Python
+---
+
+#### How do you open a file in Python?  
+**Answer:** Use the built-in `open()` function.  
+**Example:**
+```python
+file = open("example.txt", "r")  # 'r' for read mode
+```
+
+---
+
+
+#### What are the different file modes in Python?
+**Answer:**
+
+'r' – Read (default)
+
+'w' – Write (overwrites file)
+
+'a' – Append
+
+'x' – Create (fails if file exists)
+
+'b' – Binary mode
+
+'t' – Text mode (default)
+
+---
+
+#### How do you read content from a file?
+**Answer:** Use .read(), .readline(), or .readlines().
+Example:
+
+```python
+with open("example.txt", "r") as f:
+    content = f.read()
+```
+
+---
+
+
+#### How do you write to a file in Python?
+**Answer:** Use .write() method with 'w' or 'a' mode.
+ - Example:
+
+```python
+with open("example.txt", "w") as f:
+    f.write("Hello, world!")
+ ```
+
+---
+
+
+#### What is the use of with open() statement?
+**Answer:** It automatically closes the file after the block is executed, even if an error occurs.
+
+#### What is exception handling?
+**Answer:** It's a way to handle runtime errors and continue program execution using try, except, and finally.
+
+---
+
+#### How do you handle exceptions in Python?
+**Answer:** Use a try-except block.
+ - Example:
+
+```python
+try:
+    x = 10 / 0
+except ZeroDivisionError:
+    print("Cannot divide by zero.")
+```
+
+---
+
+#### What is the purpose of finally block?
+**Answer:** Code inside finally always runs, whether an exception occurs or not.
+
+---
+
+#### How do you raise your own exceptions?
+**Answer:** Use the raise keyword.
+ - Example:
+
+```python
+raise ValueError("Invalid input")
+```
+
+---
+
+#### What is the use of else in exception handling?
+**Answer:** The else block runs only if no exceptions occur in the try block.
+
+---
