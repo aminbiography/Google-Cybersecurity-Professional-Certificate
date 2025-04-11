@@ -1,6 +1,6 @@
 # Understanding Functions, Modules & Readability in Python
 
-## Functions
+## 1. Functions
 - A **function** is a reusable section of code.
 - Defined using the `def` keyword, e.g., `def function_name():`.
 - Functions can **return** values using the `return` statement.
@@ -35,7 +35,7 @@ A `return` statement sends data back from a function to the caller and exits the
 ---
 ---
 
-## Built-in Functions
+## 2. Built-in Functions
 Built-in functions are standard Python functions that can be used without importing.
 
 #### Examples:
@@ -48,7 +48,7 @@ Built-in functions are standard Python functions that can be used without import
 ---
 ---
 
-## Modules & Libraries
+## 3. Modules & Libraries
 - A **module** is a Python file with additional functions, variables, and classes.
 - A **library** is a collection of modules.
 - The **Python Standard Library** includes useful modules like:
@@ -68,7 +68,7 @@ from statistics import mean, median  # Import specific functions
 ---
 ---
 
-## Comments & Readability
+## 4. Comments & Readability
 
 #### What is the purpose of comments in Python?
 Comments explain code and improve readability for others (or your future self).
