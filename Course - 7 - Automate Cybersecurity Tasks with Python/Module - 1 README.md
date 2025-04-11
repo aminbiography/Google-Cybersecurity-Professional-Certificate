@@ -30,7 +30,7 @@ name = "John"  # String
 is_active = True  # Boolean
 ```
 
-### Additional Data Types
+### More Data Types
 
 - **Tuple**: Immutable collection, defined using `()`.  
   Example: `("wjaffrey", 13, True)`  
