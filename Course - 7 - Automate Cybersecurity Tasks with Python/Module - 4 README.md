@@ -116,12 +116,12 @@ def greet(name):
 - **Argument:** Actual value passed to function
 
 ---
+---
 
 ## List Comprehension in Python
 
 #### 13: What is List Comprehension?**  
-**A:**  
-List comprehension is a concise way to create lists in a single line of code, often replacing longer `for` loops.
+**Answer:** List comprehension is a concise way to create lists in a single line of code, often replacing longer `for` loops.
 
 ---
 
@@ -168,5 +168,6 @@ cleaned = [entry for entry in log_entries if entry]
 -  Faster execution  
 -  Cleaner code, especially for filtering or transforming lists  
 
-
+---
+---
 
