@@ -119,3 +119,123 @@ median = statistics.median([10, 20, 30])
 ---
 ---
 
+## Additional 
+## Python Classes and Objects
+
+#### What is a class in Python?
+**Answer:**  
+A class in Python is a blueprint for creating objects. It defines properties (attributes) and behaviors (methods) that the objects created from it will have.
+
+---
+
+#### What is an object in Python?
+**Answer:**  
+An object is an instance of a class. It is created using the class definition and can access the class's attributes and methods.
+
+```python
+class Dog:
+    def bark(self):
+        print("Woof!")
+
+my_dog = Dog()  # my_dog is an object of the Dog class
+my_dog.bark()   # Output: Woof!
+```
+
+#### What is the __init__ method?
+**Answer:**  
+The __init__ method is a constructor in Python that is automatically called when a new object is created. It is used to initialize the object's attributes.
+
+```python
+class Person:
+    def __init__(self, name):
+        self.name = name
+
+p = Person("Alice")
+print(p.name)  # Output: Alice
+```
+
+#### What is the purpose of self?
+**Answer:**  
+self represents the instance of the class and allows access to its attributes and methods. It must be the first parameter of any method in the class.
+
+#### How do you create a class with multiple attributes and methods?
+**Answer:** 
+Define them inside the class using __init__ for attributes and separate functions for methods.
+
+```python
+class Employee:
+    def __init__(self, name, department):
+        self.name = name
+        self.department = department
+
+    def display(self):
+        print(f"{self.name} works in {self.department}")
+```
+
+#### What is inheritance in Python?
+**Answer:** 
+Inheritance allows a class (child) to inherit the attributes and methods of another class (parent).
+
+```python
+class Vehicle:
+    def move(self):
+        print("Moving...")
+
+class Car(Vehicle):
+    pass
+
+c = Car()
+c.move()  # Output: Moving...
+```
+
+#### What is method overriding?
+**Answer:** 
+Method overriding allows a child class to provide a specific implementation of a method already defined in its parent class.
+
+```python
+class Animal:
+    def speak(self):
+        print("Animal sound")
+
+class Cat(Animal):
+    def speak(self):
+        print("Meow")
+
+c = Cat()
+c.speak()  # Output: Meow
+```
+
+#### What is encapsulation?
+**Answer:** 
+Encapsulation is the practice of hiding the internal state of an object and requiring all interaction to be performed through methods.
+
+#### What is the difference between a class attribute and an instance attribute?
+**Answer:** 
+    - Class Attribute: Shared by all instances of the class.
+    - Instance Attribute: Unique to each instance.
+
+```python
+class Dog:
+    species = "Canine"  # Class attribute
+
+    def __init__(self, name):
+        self.name = name  # Instance attribute
+```
+
+#### What is the @classmethod and @staticmethod decorator?
+**Answer:** 
+    - @classmethod: Takes cls as first parameter, used to access class attributes.
+    - @staticmethod: Doesn't take self or cls, behaves like a normal function inside a class.
+
+```python
+class MyClass:
+    count = 0
+
+    @classmethod
+    def increment(cls):
+        cls.count += 1
+
+    @staticmethod
+    def greet():
+        print("Hello!")
+```
