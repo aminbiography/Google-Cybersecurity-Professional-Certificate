@@ -1,18 +1,17 @@
 # Python Basics: Quick Reference
 
-## 🔹 File Handling in Python
+## File Handling in Python
 
-**Q1: How do you open a file in Python and ensure it closes properly after you're done?**  
-**A:**  
-Use the `with` statement, which handles file opening and ensures automatic closure.
+**## 1. How do you open a file in Python and ensure it closes properly after you're done?
+**Answer:**  Use the `with` statement, which handles file opening and ensures automatic closure.
 
 ```python
 with open("logs.txt", "r") as file:
     content = file.read()
 ```
 
-**Q2: What are the different file modes in Python's open() function?**  
-**A:**
+#### 2: What are the different file modes in Python's open() function?  
+**Answer:** 
 
 - `"r"` – Read (default)
 - `"w"` – Write (overwrites existing content)
@@ -21,19 +20,17 @@ with open("logs.txt", "r") as file:
 
 ---
 
-## 🔹 String and List Operations
+## String and List Operations
 
-**Q3: How can you convert a string of usernames into a list?**  
-**A:**  
-Use `.split()`:
+#### 3. How can you convert a string of usernames into a list?
+**Answer:**  Use `.split()`:
 
 ```python
 usernames = "elarson jsoto abernard".split()
 ```
 
-**Q4: How do you combine a list of strings into a single string?**  
-**A:**  
-Use `.join()`:
+#### 4. How do you combine a list of strings into a single string?
+**Answer:**   Use `.join()`:
 
 ```python
 ",".join(["elarson", "jsoto", "abernard"])
@@ -41,11 +38,10 @@ Use `.join()`:
 
 ---
 
-## 🔹 Regular Expressions
+## Regular Expressions
 
-**Q5: What is the purpose of `re.findall()` in Python?**  
-**A:**  
-It returns all non-overlapping matches of a pattern in a string.  
+#### 5. What is the purpose of `re.findall()` in Python?  
+**Answer:**  It returns all non-overlapping matches of a pattern in a string.  
 Example:
 
 ```python
@@ -53,8 +49,8 @@ import re
 re.findall(r"\d+", "IP 192.168.1.100")  # ['192', '168', '1', '100']
 ```
 
-**Q6: Explain the following regex patterns:**  
-**A:**
+#### 6. Explain the following regex patterns: 
+**Answer:** 
 
 - `\d`: Match a digit  
 - `\s`: Match a space  
@@ -65,17 +61,17 @@ re.findall(r"\d+", "IP 192.168.1.100")  # ['192', '168', '1', '100']
 
 ---
 
-## 🔹 Debugging & Errors
+## Debugging & Errors
 
-**Q7: What are the main types of errors in Python?**  
-**A:**
+#### 7: What are the main types of errors in Python?
+**Answer:** 
 
 - **Syntax Error** – Invalid Python syntax  
 - **Logic Error** – Code runs but gives wrong output  
 - **Exception** – Runtime error (e.g., `IndexError`, `TypeError`)  
 
-**Q8: How do you handle logic errors during debugging?**  
-**A:**
+#### 8: How do you handle logic errors during debugging?  
+**Answer:** 
 
 - Use `print()` statements to trace variables  
 - Use a debugger with breakpoints  
@@ -83,17 +79,17 @@ re.findall(r"\d+", "IP 192.168.1.100")  # ['192', '168', '1', '100']
 
 ---
 
-## 🔹 Loops and Conditional Logic
+## Loops and Conditional Logic
 
-**Q9: What is the difference between `if`, `elif`, and `else` in Python?**  
-**A:**
+#### 9: What is the difference between `if`, `elif`, and `else` in Python?
+**Answer:** 
 
 - `if`: First condition to check  
 - `elif`: Additional condition, only checked if previous `if` or `elif` is False  
 - `else`: Catches anything not caught above  
 
-**Q10: How do you iterate over a list and break the loop early?**  
-**A:**
+#### 10: How do you iterate over a list and break the loop early?
+**Answer:** 
 
 ```python
 for user in users:
@@ -103,18 +99,18 @@ for user in users:
 
 ---
 
-## 🔹 Functions in Python
+## Functions in Python
 
-**Q11: How do you define a reusable function in Python?**  
-**A:**
+#### 11: How do you define a reusable function in Python?
+**Answer:** 
 
 ```python
 def greet(name):
     return "Hello " + name
 ```
 
-**Q12: What is the difference between a parameter and an argument?**  
-**A:**
+#### 12: What is the difference between a parameter and an argument?
+**Answer:** 
 
 - **Parameter:** Variable listed in function definition  
 - **Argument:** Actual value passed to function  
