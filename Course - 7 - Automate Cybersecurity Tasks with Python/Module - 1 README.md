@@ -136,3 +136,96 @@ for i in range(5):
 ✔ **Generating Employee IDs**: Automating ID creation using while loops.  
 
 
+---
+---
+
+## Additional Compleate Concepts 
+
+# 1. Variables & Data Types
+```Python
+x = 10         # Integer
+y = 3.14       # Float
+name = "John"  # String
+is_active = True  # Boolean
+```
+---
+
+# 2. Data Structures
+my_list = [1, 2, 3]           # List
+my_tuple = (1, 2, 3)          # Tuple
+my_set = {1, 2, 3}            # Set
+my_dict = {"a": 1, "b": 2}    # Dictionary
+
+---
+
+# 3. Conditional Statements
+if x > 5:
+    print("x is greater than 5")
+elif x == 5:
+    print("x is 5")
+else:
+    print("x is less than 5")
+
+---
+
+# 4. Loops
+for i in range(5):
+    print(i)  # 0 to 4
+
+while x > 0:
+    print(x)
+    x -= 1
+
+---
+
+# 5. Functions
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Alice"))
+
+---
+
+# 6. Classes & Objects
+class Person:
+    def __init__(self, name):
+        self.name = name
+
+    def say_hello(self):
+        return f"Hi, I'm {self.name}!"
+
+p = Person("Bob")
+print(p.say_hello())
+
+---
+
+# 7. File Handling
+with open("file.txt", "w") as f:
+    f.write("Hello, World!")
+
+with open("file.txt", "r") as f:
+    print(f.read())
+
+---
+
+# 8. Exception Handling
+try:
+    result = 10 / 0
+except ZeroDivisionError:
+    print("Cannot divide by zero!")
+
+---
+
+# 9. List Comprehension
+squares = [x**2 for x in range(5)]
+print(squares)  # [0, 1, 4, 9, 16]
+
+---
+
+# 10. Importing Modules
+import math
+print(math.sqrt(16))  # 4.0
+
+---
+---
+
