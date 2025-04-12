@@ -1,6 +1,6 @@
 # Essential Linux Commands for Cybersecurity Analysts
 
-# Authentication & Authorization
+## Authentication & Authorization
 
 ### 1: What is the difference between authentication and authorization?
 **Answer:**  
@@ -9,7 +9,7 @@
 
 ---
 
-# User & Permission Management
+## User & Permission Management
 
 ### 2: What does the `chmod` command do?
 **Answer:** 
@@ -50,7 +50,7 @@ sudo chown username filename
 ```
 ---
 
-# File Navigation & Management
+## File Navigation & Management
 
 ### 6: What does ```cd ..``` do?
 **Answer:**
@@ -85,7 +85,7 @@ grep "search_term" filename.txt
 
 ---
 
-# Help & Documentation
+## Help & Documentation
 
 ### 10: What does the ```man``` command do?
 **Answer:**
@@ -93,7 +93,7 @@ Displays manual pages for Linux commands, including their usage and options.
 
 ---
 
-## 11: What does the ```whatis``` command do?
+### 11: What does the ```whatis``` command do?
 **Answer:**
 Gives a brief one-line description of a command.
 
