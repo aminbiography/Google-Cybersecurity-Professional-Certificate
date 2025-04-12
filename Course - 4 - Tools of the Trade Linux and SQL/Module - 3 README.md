@@ -1,3 +1,5 @@
+# Essential Linux Commands for Cybersecurity Analysts
+
 # Authentication & Authorization
 
 ### 1: What is the difference between authentication and authorization?
