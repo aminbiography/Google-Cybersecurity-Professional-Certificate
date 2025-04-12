@@ -39,19 +39,22 @@ Execute (x) – Run a file (for scripts/programs)
 
 ---
 
-5: How do you change file ownership in Linux?
+### 5: How do you change file ownership in Linux?
 **Answer:**
 Use the chown command.
 Example:
 ```bash
 sudo chown username filename
 ```
+---
 
 # File Navigation & Management
 
 ### 6: What does ```cd ..``` do?
 **Answer:**
 Navigates up one level in the directory tree.
+
+---
 
 ### 7: How do you list all files, including hidden ones, in a directory?
 **Answer:**
@@ -60,12 +63,16 @@ Use:
 ls -la
 ```
 
+---
+
 ### 8: How do you create a new file from the command line?
 **Answer:**
 Use:
 ```bash
 touch filename.txt
 ```
+
+---
 
 ### 9: How do you search for a string inside a file?
 **Answer:**
@@ -74,17 +81,27 @@ Use:
 grep "search_term" filename.txt
 ```
 
+---
+
 # Help & Documentation
 
 ### 10: What does the ```man``` command do?
 **Answer:**
 Displays manual pages for Linux commands, including their usage and options.
 
+---
+
+## 11: What does the ```whatis``` command do?
+**Answer:**
+Gives a brief one-line description of a command.
+
+---
 
 ### 12: What does the ```apropos``` command do?
 **Answer:**
 Searches manual page descriptions for keywords, useful when you don’t remember the exact command.
 
+---
 
 ### 13: How do you find a command to create a new group in Linux?
 **Answer:**
@@ -92,3 +109,6 @@ Use:
 ```bash
 apropos create group
 ```
+
+---
+---
