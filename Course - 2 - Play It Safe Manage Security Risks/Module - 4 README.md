@@ -1,7 +1,5 @@
 # Cybersecurity Tools & Frameworks
 
-This document contains essential cybersecurity interview questions and answers based on the content from Course 2 of the Google Cybersecurity Certificate. It also includes additional common interview questions to help you stand out.
-
 ---
 
 ## GENERAL CYBERSECURITY CONCEPTS
