@@ -1,4 +1,4 @@
-# Essential Linux Commands for Cybersecurity Analysts
+# Advanced Linux Command Guide for Cybersecurity Analysts
 
 ## Authentication & Authorization
 
@@ -172,7 +172,7 @@ less filename.txt
 # Cybersecurity Context
 
 - **Principle of Least Privilege:** Only assign the minimal permissions needed.
-- **Avoid logging in as root directly.** Use ```sudo`` instead for traceability and safety.
+- **Avoid logging in as root directly.** Use ```sudo``` instead for traceability and safety.
 - **Audit user access regularly** using tools like ```last```, ```who```, or ```checking /etc/passwd```.
 
 ---
