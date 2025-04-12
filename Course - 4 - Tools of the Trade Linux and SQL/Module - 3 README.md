@@ -113,4 +113,79 @@ apropos create group
 ```
 
 ---
+
+## More CLI
+
+### 14: How do you view the current user you're logged in as?
+**Answer:**
+```bash
+whoami
+```
+
+---
+
+### 15: How do you view your current working directory?
+**Answer:**
+```bash
+pwd
+```
+
+---
+
+### 16: How do you create a new directory?
+**Answer:**
+```bash
+mkdir directory_name
+```
+
+---
+
+### 17: How do you delete a file or directory?
+**Answer:**
+- Delete a file:
+```bash
+rm filename.txt
+```
+- Delete an empty directory:
+```bash
+rmdir foldername
+```
+
+---
+
+### 18: How do you search for a file?
+**Answer:**
+```bash
+find /path -name "filename"
+```
+
+---
+
+### 19: How do you read a file one page at a time?
+**Answer:**
+```bash
+less filename.txt
+```
+
+---
+
+# Cybersecurity Context
+
+- **Principle of Least Privilege:** Only assign the minimal permissions needed.
+- **Avoid logging in as root directly.** Use ```sudo`` instead for traceability and safety.
+- **Audit user access regularly** using tools like ```last```, ```who```, or ```checking /etc/passwd```.
+
+---
+
+# Filesystem Hierarchy Awareness (High-Level)
+
+- ```/etc``` – config files
+
+- ```/home``` – user home directories
+
+- ```/var/log``` – system logs
+
+- ```/bin, /sbin, /usr/bin``` – system binaries
+
+---
 ---
