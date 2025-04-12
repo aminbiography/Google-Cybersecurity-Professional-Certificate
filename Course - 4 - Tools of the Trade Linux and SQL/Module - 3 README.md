@@ -169,7 +169,7 @@ less filename.txt
 
 ---
 
-# Cybersecurity Context
+## Cybersecurity Context
 
 - **Principle of Least Privilege:** Only assign the minimal permissions needed.
 - **Avoid logging in as root directly.** Use ```sudo``` instead for traceability and safety.
@@ -177,7 +177,7 @@ less filename.txt
 
 ---
 
-# Filesystem Hierarchy Awareness (High-Level)
+## Filesystem Hierarchy Awareness (High-Level)
 
 - ```/etc``` – config files
 
