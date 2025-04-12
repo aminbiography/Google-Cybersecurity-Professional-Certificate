@@ -1,4 +1,5 @@
 # Linux & SQL For Cybersecurity Analyst
+---
 
 ## LINUX & COMMAND LINE
 
@@ -134,5 +135,5 @@ WHERE NOT country LIKE 'MEX%';
 - GUI (Graphical User Interface) uses windows, icons, and buttons for interaction.
 - CLI (Command Line Interface) requires typing commands. CLI is more powerful for automation and scripting.
 
-
+---
 
