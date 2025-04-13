@@ -49,13 +49,13 @@ SQL injection occurs when unfiltered input is inserted into a SQL query.
 
 ### 6. What are some common types of malware?
 **Answer:**
-- Virus  
-- Worm  
-- Trojan horse  
-- Ransomware  
-- Spyware  
-- Rootkit  
-- Fileless malware
+- Virus &#8594; Malicious code that attaches to legitimate programs or files and spreads when executed, often damaging data or systems.
+- Worm &#8594; A self-replicating malware that spreads without user interaction, typically through networks, causing disruptions and resource overload.
+- Trojan horse &#8594; Malware disguised as legitimate software, which tricks users into installing it, then secretly performs malicious actions.
+- Ransomware &#8594; Locks or encrypts a victim’s data and demands payment (a ransom) to restore access.
+- Spyware &#8594; ecretly monitors user activity, collecting sensitive information like keystrokes, passwords, or browsing habits.
+- Rootkit &#8594; A stealthy malware that gives attackers administrative access to a system and hides its presence from detection tools.
+- Fileless malware &#8594; Operates without installing files on the system; instead, it runs in memory, making it hard to detect with traditional antivirus tools.
 
 ---
 
