@@ -77,14 +77,14 @@ Cryptojacking is malware that secretly uses system resources to mine cryptocurre
 **Answer:**  
 Social engineering exploits human behavior to bypass security.  
 **Examples:**
-- Phishing  
-- Smishing  
-- Vishing  
-- Baiting  
-- Quid pro quo  
-- Tailgating  
-- Spear phishing  
-- Whaling
+- Phishing &#8594; A type of cyber attack where attackers send fraudulent emails to trick people into revealing sensitive information. 
+- Smishing &#8594; Phishing via SMS text messages, aiming to steal personal data or spread malware.
+- Vishing &#8594; Voice phishing; attackers use phone calls to impersonate legitimate entities and extract confidential information. 
+- Baiting &#8594; Involves offering something enticing (like free software or USB drives) to lure victims into a trap that leads to malware or data theft. 
+- Quid pro quo &#8594; An attacker offers a service or benefit (like IT help) in exchange for access or information, often under false pretenses. 
+- Tailgating &#8594; A physical security breach where someone follows an authorized person into a restricted area without proper credentials.
+- Spear phishing &#8594; A targeted phishing attack aimed at a specific individual or organization, using personal details to appear legitimate.
+- Whaling &#8594; A type of spear phishing that targets high-level executives or important figures in an organization.
 
 ---
 
