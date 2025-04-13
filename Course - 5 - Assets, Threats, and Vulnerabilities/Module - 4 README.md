@@ -143,9 +143,9 @@ Prepared statements separate SQL logic from user inputs, preventing attackers fr
 
 ### 15. What are the three states of data and how to protect them?
 **Answer:**
-- **Data at rest** → Encrypt with AES  
-- **Data in transit** → Use TLS/SSL  
-- **Data in use** → Use access controls and secure session management
+- **Data at rest** &#8594; Encrypt with AES  
+- **Data in transit** &#8594; Use TLS/SSL  
+- **Data in use** &#8594; Use access controls and secure session management
 
 ---
 
