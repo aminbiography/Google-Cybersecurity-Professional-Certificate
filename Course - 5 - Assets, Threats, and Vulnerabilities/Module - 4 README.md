@@ -1,4 +1,4 @@
-# Assets, Threats, and Vulnerabilities
+# Cybersecurity Threat Modeling, Exploits & Mitigation Strategies
 
 ---
 
