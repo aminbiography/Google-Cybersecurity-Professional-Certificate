@@ -49,13 +49,13 @@ SQL injection occurs when unfiltered input is inserted into a SQL query.
 
 ### 6. What are some common types of malware?
 **Answer:**
-- Virus &#8594; Malicious code that attaches to legitimate programs or files and spreads when executed, often damaging data or systems.
-- Worm &#8594; A self-replicating malware that spreads without user interaction, typically through networks, causing disruptions and resource overload.
-- Trojan horse &#8594; Malware disguised as legitimate software, which tricks users into installing it, then secretly performs malicious actions.
-- Ransomware &#8594; Locks or encrypts a victim’s data and demands payment (a ransom) to restore access.
-- Spyware &#8594; ecretly monitors user activity, collecting sensitive information like keystrokes, passwords, or browsing habits.
-- Rootkit &#8594; A stealthy malware that gives attackers administrative access to a system and hides its presence from detection tools.
-- Fileless malware &#8594; Operates without installing files on the system; instead, it runs in memory, making it hard to detect with traditional antivirus tools.
+- **Virus** &#8594; Malicious code that attaches to legitimate programs or files and spreads when executed, often damaging data or systems.
+- **Worm** &#8594; A self-replicating malware that spreads without user interaction, typically through networks, causing disruptions and resource overload.
+- **Trojan horse** &#8594; Malware disguised as legitimate software, which tricks users into installing it, then secretly performs malicious actions.
+- **Ransomware** &#8594; Locks or encrypts a victim’s data and demands payment (a ransom) to restore access.
+- **Spyware** &#8594; ecretly monitors user activity, collecting sensitive information like keystrokes, passwords, or browsing habits.
+- **Rootkit** &#8594; A stealthy malware that gives attackers administrative access to a system and hides its presence from detection tools.
+- **Fileless malware** &#8594; Operates without installing files on the system; instead, it runs in memory, making it hard to detect with traditional antivirus tools.
 
 ---
 
@@ -77,14 +77,14 @@ Cryptojacking is malware that secretly uses system resources to mine cryptocurre
 **Answer:**  
 Social engineering exploits human behavior to bypass security.  
 **Examples:**
-- Phishing &#8594; A type of cyber attack where attackers send fraudulent emails to trick people into revealing sensitive information. 
-- Smishing &#8594; Phishing via SMS text messages, aiming to steal personal data or spread malware.
-- Vishing &#8594; Voice phishing; attackers use phone calls to impersonate legitimate entities and extract confidential information. 
-- Baiting &#8594; Involves offering something enticing (like free software or USB drives) to lure victims into a trap that leads to malware or data theft. 
-- Quid pro quo &#8594; An attacker offers a service or benefit (like IT help) in exchange for access or information, often under false pretenses. 
-- Tailgating &#8594; A physical security breach where someone follows an authorized person into a restricted area without proper credentials.
-- Spear phishing &#8594; A targeted phishing attack aimed at a specific individual or organization, using personal details to appear legitimate.
-- Whaling &#8594; A type of spear phishing that targets high-level executives or important figures in an organization.
+- **Phishing** &#8594; A type of cyber attack where attackers send fraudulent emails to trick people into revealing sensitive information. 
+- **Smishing** &#8594; Phishing via SMS text messages, aiming to steal personal data or spread malware.
+- **Vishing** &#8594; Voice phishing; attackers use phone calls to impersonate legitimate entities and extract confidential information. 
+- **Baiting** &#8594; Involves offering something enticing (like free software or USB drives) to lure victims into a trap that leads to malware or data theft. 
+- **Quid pro quo** &#8594; An attacker offers a service or benefit (like IT help) in exchange for access or information, often under false pretenses. 
+- **Tailgating** &#8594; A physical security breach where someone follows an authorized person into a restricted area without proper credentials.
+- **Spear phishing** &#8594; A targeted phishing attack aimed at a specific individual or organization, using personal details to appear legitimate.
+- **Whaling** &#8594; A type of spear phishing that targets high-level executives or important figures in an organization.
 
 ---
 
