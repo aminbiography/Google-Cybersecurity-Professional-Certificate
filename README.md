@@ -1,5 +1,5 @@
 <a href="https://www.credly.com/badges/YOUR_BADGE_ID" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Certificate on Coursera" width="400"/>
+  <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Certificate on Coursera" width="600"/>
 </a>
 
 
