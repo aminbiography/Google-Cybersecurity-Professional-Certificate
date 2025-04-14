@@ -61,34 +61,29 @@ A `p-cap` file stores captured network packets. It is useful for:
 sudo tcpdump -i eth0 port 80
 ```
 
-## 6. tcpdump Flags: `-v`, `-w`, `-r`, and `-n`
+## 6. `tcpdump` Flags: `-v`, `-w`, `-r`, and `-n`
 **Answer:**
 
-|------|-------------------------------------|
-| Flag | Description                         |
-|------|-------------------------------------|
-| `-v` | Verbose output                      |
-|------|-------------------------------------|
-| `-w` | Write packets to a file             |
-|------|-------------------------------------|
-| `-r` | Read from a `.pcap` file            |
-|------|-------------------------------------|
-| `-n` | No name resolution (IP/Port)        |
-|------|-------------------------------------|
+| Flag | Description                      |
+|------|----------------------------------|
+| `-v` | Verbose output                   |
+| `-w` | Write packets to a file          |
+| `-r` | Read from a `.pcap` file         |
+| `-n` | No name resolution (IP/Port)     |
 
 ---
 
 ## 7. What is an IP Header and Why Is It Important?
 **Answer:**
 
-The IP header includes:
+The **IP header** includes:
+- Source/Destination IP addresses  
+- TTL (Time To Live)  
+- Protocol information (TCP/UDP)  
+- Checksum for integrity validation  
 
-- **Source/Destination IP addresses**
-- **TTL (Time To Live)**
-- **Protocol information (TCP/UDP)**
-- **Checksum for integrity validation**
-
-**Used in investigations** to trace, analyze, and validate network traffic.
+**Why it's important:**  
+Used in investigations to trace, analyze, and validate network traffic.
 
 ---
 
@@ -96,47 +91,44 @@ The IP header includes:
 **Answer:**
 
 An **Indicator of Compromise (IoC)** is **evidence of malicious activity**, such as:
-
-- Unusual IP addresses
-- Unexpected ports in use
-- Known malware file hashes
-- Suspicious or flagged domains
+- Unusual IP addresses  
+- Unexpected ports in use  
+- Known malware file hashes  
+- Suspicious or flagged domains  
 
 ---
 
 ## 9. What is the Significance of TTL (Time To Live)?
 **Answer:**
 
-**TTL** helps prevent **routing loops** by limiting the number of hops a packet can take.
+TTL helps prevent routing loops by **limiting the number of hops** a packet can take.
 
 TTL values can be used to:
-
-- **Identify spoofed packets**
-- **Perform OS fingerprinting** (based on default TTL values)
+- Identify spoofed packets  
+- Perform OS fingerprinting (based on default TTL values)
 
 ---
 
 ## 10. How Do `tcpdump` and `Wireshark` Support Incident Response?
 **Answer:**
 
-|------------|-----------------------------------------------------------------|
-| Tool       | Role in Incident Response                                       |
-|------------|-----------------------------------------------------------------|
-| `tcpdump`  | Fast, remote, CLI-based packet capture                          |
-|------------|-----------------------------------------------------------------|
-| Wireshark  | Deep analysis with GUI and packet visualization                 |
-|------------|-----------------------------------------------------------------|
-| **Both**   | Assist with forensics, timeline creation, and malware detection |
-|------------|-----------------------------------------------------------------|
+| Tool       | Role in Incident Response                                          |
+|------------|--------------------------------------------------------------------|
+| `tcpdump`  | Fast, remote, CLI-based packet capture                             |
+| Wireshark  | Deep analysis with GUI and packet visualization                    |
+| **Both**   | Forensics, timeline creation, malware detection                    |
 
-**Tip:** Use `tcpdump` for quick capture or automation.  
-Use **Wireshark** for detailed investigation and visual packet analysis.
+**Tip**:  
+Use `tcpdump` for quick capture or automation.  
+Use **Wireshark** for deep-dive investigation and visual packet analysis.
 
 ---
 
 ## Want More?
+**Answer:**
 
 - [Wireshark Official Docs](https://www.wireshark.org/docs/)
 - [tcpdump Documentation](https://www.tcpdump.org/manpages/tcpdump.1.html)
-- [Awesome Cybersecurity Resources](https://github.com/hslatman/awesome-cybersecurity-blueteam)
+- [Awesome Cybersecurity Blue Team Resources](https://github.com/hslatman/awesome-cybersecurity-blueteam)
 
+---
