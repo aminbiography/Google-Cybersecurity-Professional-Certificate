@@ -248,3 +248,164 @@ Keep a personal **packet analysis cheat sheet** in your GitHub repository with:
 - [Awesome Cybersecurity Blue Team](https://github.com/hslatman/awesome-cybersecurity-blueteam)
 
 ---
+
+
+# Common tcpdump and Wireshark Commands
+
+---
+
+## tcpdump - Common Commands
+
+### Basic Capture
+
+```bash
+sudo tcpdump -i eth0
+```
+
+# tcpdump Command Cheatsheet
+
+
+# Filter by Protocol
+```bash
+sudo tcpdump -i eth0 tcp
+```
+```bash
+sudo tcpdump -i eth0 udp
+```
+```bash
+sudo tcpdump -i eth0 icmp
+```
+
+# Filter by IP Address
+```bash
+sudo tcpdump -i eth0 src 192.168.1.10
+```
+```bash
+sudo tcpdump -i eth0 dst 10.0.0.5
+```
+
+# Filter by Port
+```bash
+sudo tcpdump -i eth0 port 443
+```
+```bash
+sudo tcpdump -i eth0 src port 22
+```
+```bash
+sudo tcpdump -i eth0 dst port 80
+```
+
+# Save to File and Read from File
+```bash
+sudo tcpdump -i eth0 -w capture.pcap
+```
+```bash
+sudo tcpdump -r capture.pcap
+```
+
+# Disable DNS & Service Name Resolution
+```bash
+sudo tcpdump -i eth0 -nn
+```
+
+# Limit Number of Captured Packets
+```bash
+sudo tcpdump -i eth0 -c 10
+```
+
+# Verbose Output
+```bash
+sudo tcpdump -i eth0 -v
+```
+```bash
+sudo tcpdump -i eth0 -vv
+```
+```bash
+sudo tcpdump -i eth0 -vvv
+```
+
+---
+
+# Wireshark - Common Filters
+
+> Wireshark uses **display filters** (not capture filters like tcpdump)
+
+---
+
+## IP Address Filters
+
+```wireshark
+ip.addr == 192.168.1.1
+ip.src == 10.0.0.5
+ip.dst == 8.8.8.8
+```
+## Wireshark - Common Display Filters
+
+### Port Filters
+```wireshark
+tcp.port == 443
+```
+```wireshark
+udp.port == 53
+```
+```wireshark
+tcp.srcport == 22
+```
+```wireshark
+tcp.dstport == 80
+```
+
+## Protocol Filters
+```wireshark
+http
+```
+```wireshark
+dns
+```
+```wireshark
+icmp
+```
+```wireshark
+tcp
+```
+```wireshark
+udp
+```
+
+## TCP Flag Filters
+```wireshark
+tcp.flags.syn == 1
+```
+```wireshark
+tcp.flags.ack == 1
+```
+```wireshark
+tcp.flags.reset == 1
+```
+
+## Application Layer Filters
+```wireshark
+http.request
+```
+```wireshark
+http.response
+```
+```wireshark
+dns.qry.name == "example.com"
+```
+
+## Other Useful Filters
+```wireshark
+frame contains "password"
+```
+```wireshark
+tcp contains "GET"
+```
+```wireshark
+tcp.len > 0
+```
+
+
+
+
+
