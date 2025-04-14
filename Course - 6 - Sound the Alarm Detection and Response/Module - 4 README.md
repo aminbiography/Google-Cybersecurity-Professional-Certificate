@@ -1,4 +1,6 @@
-# Cybersecurity – Detection & Response 
+# Threat, Incident Detection, and Response in Cybersecurity
+
+---
 
 ## NIST Incident Response Lifecycle
 **1: What is the NIST Incident Response Lifecycle and what are its phases?**  
