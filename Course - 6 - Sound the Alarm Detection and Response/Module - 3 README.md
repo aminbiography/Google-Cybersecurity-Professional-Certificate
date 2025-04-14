@@ -1,5 +1,7 @@
 # Cybersecurity Incident Response & SOC Analyst
 
+---
+
 ## Incident Response & Lifecycle
 
 ### 1: What are the phases of the NIST Incident Response Lifecycle?
