@@ -124,15 +124,6 @@ Use **Wireshark** for deep-dive investigation and visual packet analysis.
 
 ---
 
-## Want More?
-**Answer:**
-
-- [Wireshark Official Docs](https://www.wireshark.org/docs/)
-- [tcpdump Documentation](https://www.tcpdump.org/manpages/tcpdump.1.html)
-- [Awesome Cybersecurity Blue Team Resources](https://github.com/hslatman/awesome-cybersecurity-blueteam)
-
----
-
 # Advanced Network Analysis
 
 ## 11. What are Indicators of Attack (IoA) and how do they differ from IoCs?
