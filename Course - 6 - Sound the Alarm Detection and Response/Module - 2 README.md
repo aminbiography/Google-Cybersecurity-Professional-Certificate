@@ -228,4 +228,32 @@ sudo tcpdump -i any
 
 ---
 
+## 20. What Is the Importance of Timestamps in Packet Captures?
+**Answer:**
 
+- **Helps reconstruct the timeline** of network events  
+- **Crucial for log correlation** and alert investigations  
+- **Aids in forensic analysis** and threat hunting  
+
+---
+
+## Final Tip: Build Your Own Cheat Sheet!
+
+Keep a personal **packet analysis cheat sheet** in your GitHub repository with:
+
+- Common `tcpdump` and **Wireshark commands**
+- Filtering syntax and **real-world use cases**
+- **TCP/IP header structure** reference
+- Common **TCP flag meanings**
+- **Redacted sample capture outputs**
+- **Incident response steps** and templates
+
+---
+
+## Helpful Links
+
+- [Wireshark Official Documentation](https://www.wireshark.org/docs/)
+- [tcpdump Man Page](https://www.tcpdump.org/manpages/tcpdump.1.html)
+- [Awesome Cybersecurity Blue Team](https://github.com/hslatman/awesome-cybersecurity-blueteam)
+
+---
