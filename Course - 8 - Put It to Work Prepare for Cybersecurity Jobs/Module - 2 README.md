@@ -1,4 +1,4 @@
-# Cybersecurity Incident Escalation
+# Incident Escalation in Cybersecurity
 
 ---
 
