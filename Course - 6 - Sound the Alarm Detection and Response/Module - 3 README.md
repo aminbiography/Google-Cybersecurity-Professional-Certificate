@@ -13,7 +13,7 @@ The NIST Incident Response Lifecycle has four phases:
 ---
 
 ### 2: What is the purpose of post-incident activity?
-**Answer:**
+**Answer:**  
 Post-incident activity involves reviewing the incident to identify areas for improvement, conducting lessons learned meetings, and developing a **final report** with recommendations to prevent similar future incidents.
 
 ---
@@ -21,7 +21,7 @@ Post-incident activity involves reviewing the incident to identify areas for imp
 ## Triage and Alert Handling
 
 ### 3: What are the steps involved in triaging a security alert?
-**Answer:**
+**Answer:**  
 1. **Receive and assess** – Review alert details and determine if it's a false positive.  
 2. **Assign priority** – Based on the impact, urgency, and scope of the incident.  
 3. **Collect and analyze** – Gather logs and evidence for deeper investigation.
@@ -29,7 +29,7 @@ Post-incident activity involves reviewing the incident to identify areas for imp
 ---
 
 ### 4: What factors determine the priority of an incident?
-**Answer:**
+**Answer:**  
 - **Functional impact** (disruption to services)  
 - **Information impact** (data exposure)  
 - **Recoverability** (ease of restoration)
@@ -38,14 +38,14 @@ Post-incident activity involves reviewing the incident to identify areas for imp
 
 ## Documentation & Reports
 
-### Q5: Why is documentation important in cybersecurity?
-**Answer:**
+### 5: Why is documentation important in cybersecurity?
+**Answer:**  
 It provides **transparency**, **standardization**, and **clarity**, ensuring all actions are recorded, repeatable, and understandable for audits, legal needs, and team coordination.
 
 ---
 
 ### 6: What is included in a final incident report?
-**Answer:**
+**Answer:**  
 - Executive summary  
 - Detailed timeline  
 - Investigation details  
@@ -57,22 +57,22 @@ It provides **transparency**, **standardization**, and **clarity**, ensuring all
 ## Detection & Analysis
 
 ### 7: What are Indicators of Compromise (IoCs) and Indicators of Attack (IoAs)?
-**Answer:**
+**Answer:**  
 - **IoCs** are artifacts like IPs, file hashes, or domain names that indicate past compromise.  
 - **IoAs** reflect behaviors and patterns indicating an ongoing attack.
 
 ---
 
 ### 8: How do tools like VirusTotal help in incident response?
-**Answer:**
+**Answer:**  
 VirusTotal analyzes files, URLs, and hashes to check if they're malicious. It provides reputation scores, behavior reports, and links to related IoCs, helping analysts validate alerts quickly.
 
 ---
 
 ## Containment, Eradication & Recovery
 
-### Q9: Give examples of tasks under containment, eradication, and recovery.
-**Answer:**
+### 9: Give examples of tasks under containment, eradication, and recovery.
+**Answer:**  
 - **Containment**: Isolating infected systems  
 - **Eradication**: Removing malware, patching vulnerabilities  
 - **Recovery**: Reimaging systems, restoring data, resetting passwords
@@ -80,9 +80,8 @@ VirusTotal analyzes files, URLs, and hashes to check if they're malicious. It pr
 ---
 
 ### 10: What is the difference between a business continuity plan (BCP) and a disaster recovery plan (DRP)?
-**Answer:**
+**Answer:**  
 - **BCP** ensures critical business functions continue during disruptions.  
 - **DRP** focuses on restoring IT systems after disasters like natural events or major system failures.
 
 ---
-
