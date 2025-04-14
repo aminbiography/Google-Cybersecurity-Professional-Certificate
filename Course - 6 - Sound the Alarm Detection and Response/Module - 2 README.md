@@ -228,17 +228,6 @@ sudo tcpdump -i any
 
 ---
 
-## Final Tip: Build Your Own Cheat Sheet!
-
-Keep a personal **packet analysis cheat sheet** in your GitHub repository with:
-
-- Common `tcpdump` and **Wireshark commands**
-- Filtering syntax and **real-world use cases**
-- **TCP/IP header structure** reference
-- Common **TCP flag meanings**
-- **Redacted sample capture outputs**
-- **Incident response steps** and templates
-
 ---
 
 ## Helpful Links
@@ -262,10 +251,10 @@ Keep a personal **packet analysis cheat sheet** in your GitHub repository with:
 sudo tcpdump -i eth0
 ```
 
-# tcpdump Command Cheatsheet
+### tcpdump Command Cheatsheet
 
 
-# Filter by Protocol
+### Filter by Protocol
 ```bash
 sudo tcpdump -i eth0 tcp
 ```
@@ -276,7 +265,7 @@ sudo tcpdump -i eth0 udp
 sudo tcpdump -i eth0 icmp
 ```
 
-# Filter by IP Address
+### Filter by IP Address
 ```bash
 sudo tcpdump -i eth0 src 192.168.1.10
 ```
@@ -284,7 +273,7 @@ sudo tcpdump -i eth0 src 192.168.1.10
 sudo tcpdump -i eth0 dst 10.0.0.5
 ```
 
-# Filter by Port
+### Filter by Port
 ```bash
 sudo tcpdump -i eth0 port 443
 ```
@@ -295,7 +284,7 @@ sudo tcpdump -i eth0 src port 22
 sudo tcpdump -i eth0 dst port 80
 ```
 
-# Save to File and Read from File
+### Save to File and Read from File
 ```bash
 sudo tcpdump -i eth0 -w capture.pcap
 ```
@@ -303,17 +292,17 @@ sudo tcpdump -i eth0 -w capture.pcap
 sudo tcpdump -r capture.pcap
 ```
 
-# Disable DNS & Service Name Resolution
+### Disable DNS & Service Name Resolution
 ```bash
 sudo tcpdump -i eth0 -nn
 ```
 
-# Limit Number of Captured Packets
+### Limit Number of Captured Packets
 ```bash
 sudo tcpdump -i eth0 -c 10
 ```
 
-# Verbose Output
+### Verbose Output
 ```bash
 sudo tcpdump -i eth0 -v
 ```
@@ -326,20 +315,21 @@ sudo tcpdump -i eth0 -vvv
 
 ---
 
-# Wireshark - Common Filters
+## Wireshark - Common Filters
 
 > Wireshark uses **display filters** (not capture filters like tcpdump)
 
 ---
 
-## IP Address Filters
+### IP Address Filters
 
 ```wireshark
 ip.addr == 192.168.1.1
 ip.src == 10.0.0.5
 ip.dst == 8.8.8.8
 ```
-## Wireshark - Common Display Filters
+
+### Wireshark - Common Display Filters
 
 ### Port Filters
 ```wireshark
@@ -355,7 +345,7 @@ tcp.srcport == 22
 tcp.dstport == 80
 ```
 
-## Protocol Filters
+### Protocol Filters
 ```wireshark
 http
 ```
@@ -372,7 +362,7 @@ tcp
 udp
 ```
 
-## TCP Flag Filters
+### TCP Flag Filters
 ```wireshark
 tcp.flags.syn == 1
 ```
@@ -383,7 +373,7 @@ tcp.flags.ack == 1
 tcp.flags.reset == 1
 ```
 
-## Application Layer Filters
+### Application Layer Filters
 ```wireshark
 http.request
 ```
@@ -394,7 +384,7 @@ http.response
 dns.qry.name == "example.com"
 ```
 
-## Other Useful Filters
+### Other Useful Filters
 ```wireshark
 frame contains "password"
 ```
@@ -405,7 +395,7 @@ tcp contains "GET"
 tcp.len > 0
 ```
 
-
+---
 
 
 
