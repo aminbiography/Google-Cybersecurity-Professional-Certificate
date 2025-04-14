@@ -1,3 +1,8 @@
+<a href="https://www.credly.com/badges/YOUR_BADGE_ID" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Certificate on Coursera" width="300"/>
+</a>
+
+
 Live URL: https://aminbiography.github.io/Google-Cybersecurity-Professional-Certificate/
 
    
@@ -15,11 +20,7 @@ Live URL: https://aminbiography.github.io/Google-Cybersecurity-Professional-Cert
 <p>THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.</p>
 
 --------------------------------------------------------------------------------------------------------------------
-
-![Badge](https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
-
-
-<img src="https://coursera-certificate-images.s3.amazonaws.com/2GLRWLH1Y7SK?fbclid=IwY2xjawJpVN5leHRuA2FlbQIxMAABHpahWx1oi2NS4hAC90soeMCosmftxCfb4P4C_uqtrYrLnRsNBfmMkpIp7jGZ_aem_4RYxqSfT71W1IwXhU0p-tw" alt="Coursera Certificate" width="1200"/>
+<img src="https://coursera-certificate-images.s3.amazonaws.com/2GLRWLH1Y7SK?fbclid=IwY2xjawJpVN5leHRuA2FlbQIxMAABHpahWx1oi2NS4hAC90soeMCosmftxCfb4P4C_uqtrYrLnRsNBfmMkpIp7jGZ_aem_4RYxqSfT71W1IwXhU0p-tw" alt="Google Cybersecurity Certificate On Coursera " width="1200"/>
 
 
 [![Coursera Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~21J47YRQG8P5/CERTIFICATE_LANDING_PAGE~21J47YRQG8P5.jpeg)](https://www.coursera.org/account/accomplishments/certificate/21J47YRQG8P5)
