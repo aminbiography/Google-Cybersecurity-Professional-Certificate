@@ -187,3 +187,45 @@ tcp                      # All TCP traffic
 
 ---
 
+## 16. What is the Role of the Checksum in IP Headers?
+**Answer:**
+
+- Used for **error-checking**
+- Ensures the **IP header's integrity**
+- Helps analysts **spot malformed or tampered packets**
+
+---
+
+## 17. What are the Four Phases of the NIST Incident Response Lifecycle?
+**Answer:**
+
+1. **Preparation**
+2. **Detection and Analysis**
+3. **Containment, Eradication, and Recovery**
+4. **Post-Incident Activity**
+
+> This framework is essential for structured incident response and continuous improvement.
+
+---
+
+## 18. What Do the Flags `[S]`, `[P.]`, `[.]` Mean in tcpdump Output?
+**Answer:**
+
+- `[S]` → **SYN** – Initiates a TCP connection (handshake)
+- `[P.]` → **Push + ACK** – Sends data with acknowledgment
+- `[.]` → **ACK only** – Acknowledges receipt
+
+These flags help analyze **TCP session states** and identify **abnormal communication patterns**.
+
+---
+
+## 19. How Can You Capture Traffic from All Interfaces Using tcpdump?
+**Answer:**
+
+```bash
+sudo tcpdump -i any
+```
+
+---
+
+
