@@ -1,4 +1,4 @@
-# Network Protocol Analyzer - Wireshark & tcpdump
+# Advanced Network Analysis Wireshark & tcpdump
 
 ---
 
@@ -132,3 +132,58 @@ Use **Wireshark** for deep-dive investigation and visual packet analysis.
 - [Awesome Cybersecurity Blue Team Resources](https://github.com/hslatman/awesome-cybersecurity-blueteam)
 
 ---
+
+# Advanced Network Analysis
+
+## 11. What are Indicators of Attack (IoA) and how do they differ from IoCs?
+**Answer:**
+
+- **IoA (Indicator of Attack)**: Describes **intent or behavior**, such as privilege escalation or lateral movement attempts.
+- **IoC (Indicator of Compromise)**: Shows **evidence** that an attack has occurred, like malware file hashes or suspicious IPs.
+
+---
+
+## 12. What is the difference between TCP and UDP traffic in analysis?
+**Answer:**
+
+| Feature                | TCP                          | UDP                          |
+|------------------------|------------------------------|-------------------------------|
+| Type                   | Connection-oriented          | Connectionless                |
+| Reliability            | Reliable (ACK, retransmit)   | Unreliable (best-effort)      |
+| Session Tracking       | Easier to track sessions     | Harder to track               |
+| Use Cases              | HTTP, HTTPS, SSH, FTP        | DNS, VoIP, Streaming          |
+| Performance            | Slower, handshake required   | Faster, lightweight           |
+
+---
+
+## 13. What is a MAC address and how is it different from an IP address?
+**Answer:**
+
+- **MAC Address**: A unique hardware-level identifier assigned to a device's NIC. It is persistent and local.
+- **IP Address**: A logical address assigned within a network. It may change based on network configuration.
+-  MAC is hardware-bound, IP is network-bound.
+
+---
+
+## 14. Why is disabling name resolution (`-n` or `-nn`) in tcpdump important?
+**Answer:**
+
+- Prevents **reverse DNS lookups**.
+- **Improves speed** of packet capture and display.
+- Avoids **alerting attackers** through unintended DNS queries.
+
+---
+
+## 15. What are common filters used in Wireshark/tcpdump?
+**Answer:**
+
+**tcpdump filter examples**:
+```bash
+tcp port 80              # Capture HTTP traffic
+ip src 192.168.1.1       # Traffic from a specific source IP
+port 443                 # HTTPS traffic
+tcp                      # All TCP traffic
+```
+
+---
+
