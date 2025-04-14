@@ -1,4 +1,4 @@
-# 
+# Cybersecurity Community Engagement & Networking
 
 ---
 
