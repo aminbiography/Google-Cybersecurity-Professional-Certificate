@@ -1,1 +1,125 @@
+# 📁 Portfolio of Mohammad Aminul Islam
+
+**Name:** Mohammad Aminul Islam  
+**Portfolio Title:** *Cybersecurity Incident Report: Network Traffic Analysis*
+
+---
+
+## 🧑‍💼 Professional Summary
+
+My name is Mohammad Aminul Islam. I am skilled in programming, problem solving, and analytical thinking. I am committed to protecting organizations from cyber threats, particularly in cloud and web security. I am dedicated to ensuring the confidentiality, integrity, and availability of data and systems.
+
+My goal is to utilize my skills and knowledge to help organizations strengthen their security posture and protect sensitive information from evolving threats.
+
+---
+
+## 🎯 Objective
+
+The objective of this project is to analyze network traffic and identify the root cause of a cybersecurity incident involving DNS service inaccessibility. Specifically, the project aims to:
+
+- Investigate why DNS queries for the domain `www.foodparkrecipesforme.com` fail.  
+- Determine the underlying issue causing the **"UDP port 53 unreachable"** error.  
+- Identify and document the steps required to troubleshoot and resolve the issue.  
+- Propose a solution to restore DNS functionality and ensure reliable domain name resolution in the future.
+
+> This project highlights practical skills in **network traffic analysis, troubleshooting, and incident resolution** to address real-world cybersecurity challenges.
+
+---
+
+## 📄 Cybersecurity Incident Report: Network Traffic Analysis
+
+---
+
+### 🧩 Part 1: Summary of the Problem in DNS and ICMP Traffic Log
+
+- **Issue Identified:**  
+  The DNS query for resolving the domain `www.foodparkrecipesforme.com` was sent using the UDP protocol to port 53. However, ICMP packets were returned with the error:  
+  ```
+  "UDP port 53 unreachable"
+  ```
+
+- **Cause:**  
+  This error means the DNS service was inaccessible on the target server at IP `203.0.113.2`.
+
+- **Possible Reasons:**  
+  - The DNS server is offline  
+  - Firewall misconfiguration is blocking UDP traffic  
+  - Network or hardware issues are preventing communication
+
+---
+
+### 📊 Part 2: Data Analysis & Cause of Incident
+
+- **Time of Incident:**  
+  `13:24:32.192571` — First failed DNS query recorded.
+
+- **Traffic Pattern:**  
+  - **Source IP:** `192.51.100.15`  
+  - **Destination IP:** `203.0.113.2`  
+  - Repeated ICMP error messages: `"UDP port 53 unreachable"`
+
+- **User Impact:**  
+  Users reported inability to access `www.foodparkrecipesforme.com` and received the message:  
+  ```
+  "Destination port unreachable"
+  ```
+
+- **IT Investigation Actions:**
+  - Replicated the issue internally  
+  - Used `tcpdump` to capture and analyze network traffic  
+  - Confirmed that DNS queries to port 53 failed consistently
+
+- **Key Findings:**
+  - DNS service is not responding at destination IP  
+  - No active service listening on port 53  
+  - Persistent ICMP responses confirm the issue
+
+- **Likely Cause:**  
+  DNS server is either **offline**, its **service is not running**, or **UDP traffic is being blocked**
+
+---
+
+### 🧾 Part 3: Tcpdump Log Summary
+
+- **Findings from Log Analysis:**
+  - DNS queries sent via UDP to `203.0.113.2:53`
+  - Received ICMP messages: `"UDP port 53 unreachable"`
+  - Logs consistently show failure in domain resolution attempts
+
+- **Interpretation:**  
+  DNS server at `203.0.113.2` is unable to process queries, preventing resolution of the domain.
+
+---
+
+### 🛠️ Part 4: Analysis & Proposed Solution
+
+- **Incident First Reported:**  
+  `13:24:32.192571`
+
+- **Reported Scenario:**  
+  Users couldn’t reach the domain and received `"destination port unreachable"` error.
+
+- **Current Status:**  
+  Ongoing — DNS queries are still failing.
+
+- **Investigation Discoveries:**  
+  - Port 53 is unreachable  
+  - ICMP responses suggest misconfigured DNS server or blocked network traffic
+
+- **Next Steps in Troubleshooting:**
+  1. Verify the DNS server status (`203.0.113.2`)
+  2. Check firewall or network policies affecting UDP port 53
+  3. Restart or reconfigure the DNS service
+  4. Test DNS functionality after changes
+
+- **Suspected Root Cause:**  
+  Likely a **misconfigured**, **offline DNS server**, or **UDP port 53 blocked** by a firewall
+
+---
+
+## ✅ Conclusion
+
+This incident emphasizes the importance of proper DNS server configuration and vigilant monitoring of network traffic. Addressing the root cause will restore DNS functionality and ensure users can resolve domain names like `www.foodparkrecipesforme.com` successfully.
+
+---
 
