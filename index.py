@@ -1,1 +1,1 @@
-# Google Cybersecurity Professional Certificate
+# Google Cloud Cybersecurity Professional Certificate
