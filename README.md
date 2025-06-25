@@ -4,7 +4,7 @@
     
 Live URL: https://aminbiography.github.io/Google-Cybersecurity-Professional-Certificate/  
  
-<h1>MIT License</h1>  
+<h1>MIT License</h1>   
   
 <h2>Copyright (c) 2024 Mohammad Aminul Islam</h2>
 
