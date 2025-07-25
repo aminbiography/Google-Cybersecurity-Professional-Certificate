@@ -19,8 +19,7 @@ Live URL: https://aminbiography.github.io/Google-Cybersecurity-Professional-Cert
 --------------------------------------------------------------------------------------------------------------------
 <img src="https://coursera-certificate-images.s3.amazonaws.com/2GLRWLH1Y7SK?fbclid=IwY2xjawJpVN5leHRuA2FlbQIxMAABHpahWx1oi2NS4hAC90soeMCosmftxCfb4P4C_uqtrYrLnRsNBfmMkpIp7jGZ_aem_4RYxqSfT71W1IwXhU0p-tw" alt="Google Cybersecurity Certificate On Coursera " width="1200"/>
 
-![Meta Introduction to Social Media Marketing Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~21J47YRQG8P5/CERTIFICATE_LANDING_PAGE~21J47YRQG8P5.jpeg)
-[🔗 View Certificate](https://coursera.org/verify/21J47YRQG8P5)
+[![Google Certificate on Coursera](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~21J47YRQG8P5/CERTIFICATE_LANDING_PAGE~21J47YRQG8P5.jpeg)](https://www.coursera.org/account/accomplishments/certificate/21J47YRQG8P5)
 
 
 [![Google Certificate on Coursera](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~OA7G8JR2H7Z9/CERTIFICATE_LANDING_PAGE~OA7G8JR2H7Z9.jpeg)](https://www.coursera.org/account/accomplishments/certificate/OA7G8JR2H7Z9)
@@ -41,7 +40,3 @@ Live URL: https://aminbiography.github.io/Google-Cybersecurity-Professional-Cert
 
 
 [![Google Certificate on Coursera](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CIUW7RTZ0CA0/CERTIFICATE_LANDING_PAGE~CIUW7RTZ0CA0.jpeg)](https://www.coursera.org/account/accomplishments/verify/CIUW7RTZ0CA0)
-
-
-
-
