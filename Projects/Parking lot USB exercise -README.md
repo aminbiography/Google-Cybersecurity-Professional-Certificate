@@ -1,0 +1,7 @@
+# Parking Lot USB Exercise
+
+| **Section**         | **Details** |
+|---------------------|-------------|
+| **Contents**        | The USB drive contains a mix of **personal and work-related files**, including family and pet photos, a new hire letter, and an employee shift schedule. These work files may include **personally identifiable information (PII)**. Storing personal and work files together on a single device increases the risk of **data exposure** or **unintentional sharing**. |
+| **Attacker Mindset**| An attacker could exploit the contents to target **Jorge, other employees, or the hospital**. Employee schedules might support **social engineering**, and PII could be used for **phishing attacks**. Personal files may reveal lifestyle details that enable **tailored spear-phishing** or **manipulation through trust**. |
+| **Risk Analysis**   | USB devices can carry **malware** such as **keyloggers**, **ransomware**, or **remote access tools**. If accessed on a networked machine, malware could spread internally. Sensitive content like **employee schedules** or **hiring information** could be weaponized in **targeted attacks**. Mitigation strategies include: <ul><li>🔒 Technical: USB port blocking, endpoint protection, device whitelisting</li><li>🛠 Operational: Keep work and personal data separate</li><li>📚 Managerial: Train staff on USB risks and phishing awareness</li><li>🧪 Use virtual/sandboxed environments to examine unknown devices safely</li></ul> |
