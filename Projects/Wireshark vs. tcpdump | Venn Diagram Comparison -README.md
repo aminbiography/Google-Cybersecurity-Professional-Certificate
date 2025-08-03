@@ -13,3 +13,8 @@
 - **Wireshark** is better for deep analysis with a visual interface.  
 - **tcpdump** is better for fast, lightweight command-line packet capturing.  
 - **Both tools** complement each other and support `.pcap` format for interoperability.
+
+
+# Venn Diagram Comparison
+
+![Wireshark vs. tcpdump: Venn Diagram Comparison](https://github.com/aminbiography/Google-Cybersecurity-Professional-Certificate/blob/048ad7ef28e0aff5f35e99fd11caab8d3c8f225a/bar-graph-chart-image/Venn-diagram-Wireshark-vs-tcpdump.png?raw=true)
