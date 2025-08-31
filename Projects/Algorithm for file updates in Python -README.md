@@ -133,3 +133,12 @@ This project highlights my strengths in:
 - **Problem-solving**  
 
 I am committed to leveraging my cybersecurity expertise to **develop and implement solutions** that help organizations **protect sensitive data** and **stay ahead of emerging threats**.
+
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Cybersecurity Analyst)  
+- **Project Source**: Google Cloud Security Command Center hands-on project (Coursera)  
+- **Guidance & Framework**: Google Cloud documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
