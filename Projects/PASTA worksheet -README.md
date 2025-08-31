@@ -85,3 +85,11 @@ SQL is prioritized because the app's database handles sensitive data like creden
 
 **Summary:**
 The PASTA threat model identified SQL as a high-priority risk area due to its role in storing sensitive data. By analyzing internal and external threats, we outlined vulnerabilities and attack paths, then recommended controls to reduce risk exposure and ensure regulatory compliance.
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Cybersecurity Analyst)  
+- **Project Source**: Google Cloud Security Command Center hands-on project (Coursera)  
+- **Guidance & Framework**: Google Cloud documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
