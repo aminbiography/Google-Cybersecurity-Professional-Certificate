@@ -140,3 +140,11 @@ In this task, I:
 - Practical use of MariaDB SQL syntax  
 
 This hands-on exercise shows how SQL is a valuable tool for **cybersecurity operations**, enabling accurate detection, audit, and reporting of security-related events.
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Cybersecurity Analyst)  
+- **Project Source**: Google Cloud Security Command Center hands-on project (Qwiklabs / Coursera)  
+- **Guidance & Framework**: Google Cloud documentation & Qwiklabs instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
