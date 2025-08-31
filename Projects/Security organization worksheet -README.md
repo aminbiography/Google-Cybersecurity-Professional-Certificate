@@ -40,3 +40,11 @@ OWASP is a nonprofit organization focused on improving the security of software.
 
 Google offers foundational knowledge, community support, and practical tools highly relevant to beginners. Its "secure-by-design" model and extensive learning content make it an ideal starting point for my journey into Application Cloud Security.
 
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Cybersecurity Analyst)  
+- **Project Source**: Google Cloud Security Command Center hands-on project (Coursera)  
+- **Guidance & Framework**: Google Cloud documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
+
