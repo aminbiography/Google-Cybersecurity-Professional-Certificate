@@ -126,3 +126,11 @@ This case demonstrates my ability to:
 - Diagnose and interpret network communication failures  
 - Utilize tools like `tcpdump` for traffic analysis  
 - Recommend actionable, technical solutions to restore service availability  
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Cybersecurity Analyst)  
+- **Project Source**: Google Cloud Security Command Center hands-on project (Qwiklabs / Coursera)  
+- **Guidance & Framework**: Google Cloud documentation & Qwiklabs instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
