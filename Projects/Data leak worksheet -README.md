@@ -87,3 +87,10 @@ The control emphasizes the need to:
 
 > **Note**: In the NIST SP 800-53 framework, "Least Privilege" is listed under Access Control as **AC-6**.
 
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Cybersecurity Analyst)  
+- **Project Source**: Google Cloud Security Command Center hands-on project (Coursera)  
+- **Guidance & Framework**: Google Cloud documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
