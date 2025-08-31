@@ -68,3 +68,12 @@
 - **Ensure SOC compliance** through regular audits of data availability, confidentiality, and integrity.
 
 These recommendations will help improve Botium Toys’ security posture and reduce the risk exposure across its IT environment.
+
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Cybersecurity Analyst)  
+- **Project Source**: Google Cloud Security Command Center hands-on project (Coursera)  
+- **Guidance & Framework**: Google Cloud documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
