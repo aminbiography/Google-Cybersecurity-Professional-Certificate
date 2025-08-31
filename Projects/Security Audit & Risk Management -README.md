@@ -145,3 +145,11 @@ The audit covers the comprehensive security landscape of Loreal Corner, encompas
 
 The audit revealed several **critical security gaps** in Loreal Corner’s operations, particularly in **access management**, **data encryption**, and **disaster recovery planning**.  
 By implementing the above recommendations, Loreal Corner can significantly **reduce security risks** and **enhance regulatory compliance**, safeguarding their data and operations against modern cyber threats.
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Cybersecurity Analyst)  
+- **Project Source**: Google Cloud Security Command Center hands-on project (Coursera)  
+- **Guidance & Framework**: Google Cloud documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
