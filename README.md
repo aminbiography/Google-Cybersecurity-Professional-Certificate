@@ -8,7 +8,7 @@ Live URL: https://aminbiography.github.io/Google-Cybersecurity-Professional-Cert
          
 ---  
 
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GCL6CHIZ9NHH/CERTIFICATE_LANDING_PAGE~GCL6CHIZ9NHH.jpeg" alt="Google Cybersecurity Certificate On Coursera " />
+<img src="https://coursera.org/share/5601d6829625aeaf7e3db7e0122c670c" alt="Google Cybersecurity Certificate On Coursera " />
 
 [![Google Certificate on Coursera](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~21J47YRQG8P5/CERTIFICATE_LANDING_PAGE~21J47YRQG8P5.jpeg)](https://www.coursera.org/account/accomplishments/certificate/21J47YRQG8P5)
 
