@@ -36,7 +36,7 @@ Live URL: https://aminbiography.github.io/Google-Cybersecurity-Professional-Cert
 
 <h1>MIT License</h1>                                            
                     
-<h2>Copyright (c) 2024 - 2025 Mohammad Aminul Islam</h2>
+<h2>Copyright (c) Mohammad Aminul Islam</h2>
 
 <h3>This file is part of the Google Cybersecurity Professional Certificate program on Coursera. (Personal Short Note) and Certifications.</h3>
 <h4>Licensed under the MIT License. See the LICENSE file for details.</h4>
