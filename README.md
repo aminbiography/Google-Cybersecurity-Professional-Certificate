@@ -3,7 +3,7 @@
   <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Certificate on Coursera" width="300"/>
 </a>    
 </div>                   
-                                                             
+                                                              
 Live URL: https://aminbiography.github.io/Google-Cybersecurity-Professional-Certificate/    
          
 ---  
